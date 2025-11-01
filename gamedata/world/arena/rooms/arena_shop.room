@@ -1,0 +1,440 @@
+{
+    "type": "shop",
+    "variant": "normal",
+    "theme": "arena",
+    "unlockReq": "",
+    "probability": 1.0,
+    "allowDuplicates": true,
+    "preventAdditionalEnemySpawns": false,
+    "preventRotations": false,
+    "roomFlags": [],
+    "customData": "",
+    "overrideVegetationInfos": [],
+    "overrideWallInfos": [],
+    "overrideCeilingInfo": [],
+    "baseTiles": [
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 0
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": true,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 4.0,
+            "doorType": "door_locked",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 0
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 3.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "collapsed",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 2,
+                "y": 1
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 3.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 1,
+                "y": 1
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 3.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 1
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": -0.375,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 3.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 0
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 3.0,
+            "doorType": "default",
+            "ground": "wood",
+            "ceiling": "wood",
+            "wall": "collapsed",
+            "customRule": "none"
+        }
+    ],
+    "baseExtraObjects": [
+        {
+            "identifier": "prop_shopgimmick_5coinsforkey",
+            "pos": {
+                "x": 8.002158164978028,
+                "y": 5.969756671220239e-7,
+                "z": 0.7531658411026001
+            },
+            "rot": {
+                "x": 0.000013660079275723547,
+                "y": 0.5345308780670166,
+                "z": 6.372183491976102e-8
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_pot",
+            "pos": {
+                "x": 8.721559524536133,
+                "y": -0.007080078125,
+                "z": 1.499462366104126
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_pot",
+            "pos": {
+                "x": 8.048500061035157,
+                "y": -0.007080078125,
+                "z": 3.926506757736206
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_shopgimmick_5coinsforrandom",
+            "pos": {
+                "x": 0.46121132373809817,
+                "y": -0.015476226806640625,
+                "z": 0.4207608699798584
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_crate_stacked_triple",
+            "pos": {
+                "x": 5.499301910400391,
+                "y": 4.76837158203125e-7,
+                "z": 5.499301433563232
+            },
+            "rot": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_crate_stacked_double",
+            "pos": {
+                "x": 2.4951114654541017,
+                "y": 2.3825194261917205e-7,
+                "z": 5.499302864074707
+            },
+            "rot": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_crate",
+            "pos": {
+                "x": 4.497905254364014,
+                "y": 2.3841852225814365e-7,
+                "z": 5.499302387237549
+            },
+            "rot": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_crate",
+            "pos": {
+                "x": 3.4965083599090578,
+                "y": 2.383352040169484e-7,
+                "z": 5.499302864074707
+            },
+            "rot": {
+                "x": 90.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "shop_buy_area",
+            "pos": {
+                "x": 4.148342609405518,
+                "y": 1.0468823909759522,
+                "z": 2.4187440872192385
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "shop_buy_area",
+            "pos": {
+                "x": 5.221705436706543,
+                "y": 1.0468823909759522,
+                "z": 2.4187440872192385
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "shop_buy_area",
+            "pos": {
+                "x": 2.8492157459259035,
+                "y": 1.0468823909759522,
+                "z": 2.4187440872192385
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 90.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "pillar_3",
+            "pos": {
+                "x": 1.648773193359375,
+                "y": -0.005275607109069824,
+                "z": 2.700185775756836
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "pillar_3",
+            "pos": {
+                "x": 6.648799896240234,
+                "y": -0.005275607109069824,
+                "z": 2.7001852989196779
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_shopping_counter",
+            "pos": {
+                "x": 5.148797512054443,
+                "y": -0.005275547504425049,
+                "z": 2.7001864910125734
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "prop_shopping_counter",
+            "pos": {
+                "x": 3.148776054382324,
+                "y": -0.005275547504425049,
+                "z": 2.7001872062683107
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        },
+        {
+            "identifier": "npc_shopkeeper",
+            "pos": {
+                "x": 4.106802463531494,
+                "y": 0.8515686988830566,
+                "z": 3.743673086166382
+            },
+            "rot": {
+                "x": 0.0,
+                "y": 180.00003051757813,
+                "z": 0.0
+            },
+            "customData": "",
+            "restrictToFloor": -10,
+            "groupID": 0,
+            "subgroupID": -1,
+            "subgroupIDIndex": -1
+        }
+    ],
+    "groups": []
+}

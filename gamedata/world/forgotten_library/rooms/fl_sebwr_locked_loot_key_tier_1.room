@@ -1,0 +1,929 @@
+{
+    "type": "locked_loot",
+    "variant": "key_tier_1",
+    "theme": "forgotten",
+    "unlockReq": "",
+    "probability": 1.0,
+    "allowDuplicates": true,
+    "preventAdditionalEnemySpawns": false,
+    "preventRotations": false,
+    "roomFlags": [
+        "crates",
+        "bookshelf",
+        "pots"
+    ],
+    "customData": "",
+    "overrideVegetationInfos": [],
+    "overrideWallInfos": [],
+    "overrideCeilingInfo": [],
+    "baseTiles": [
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 1
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": false,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 4.0,
+            "doorType": "default",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        },
+        {
+            "possibleTiles": [
+                "ground"
+            ],
+            "pos": {
+                "x": 0,
+                "y": 0
+            },
+            "rot": 0,
+            "canSpawnSecret": true,
+            "extraFlags": [],
+            "isDoor": true,
+            "wallInset": 0.0,
+            "yOffset": 0.0,
+            "groundOffset": 0.0,
+            "ceilOffset": 4.0,
+            "doorType": "door_locked",
+            "ground": "stone",
+            "ceiling": "stone",
+            "wall": "default",
+            "customRule": "none"
+        }
+    ],
+    "baseExtraObjects": [],
+    "groups": [
+        {
+            "groupTiles": [
+                {
+                    "possibleTiles": [
+                        "ground"
+                    ],
+                    "pos": {
+                        "x": 0,
+                        "y": 1
+                    },
+                    "rot": 0,
+                    "canSpawnSecret": true,
+                    "extraFlags": [],
+                    "isDoor": false,
+                    "wallInset": 0.0,
+                    "yOffset": 0.0,
+                    "groundOffset": 0.0,
+                    "ceilOffset": 4.0,
+                    "doorType": "default",
+                    "ground": "stone",
+                    "ceiling": "stone",
+                    "wall": "default",
+                    "customRule": "none"
+                },
+                {
+                    "possibleTiles": [
+                        "ground"
+                    ],
+                    "pos": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "rot": 0,
+                    "canSpawnSecret": true,
+                    "extraFlags": [],
+                    "isDoor": true,
+                    "wallInset": 0.0,
+                    "yOffset": 0.0,
+                    "groundOffset": 0.0,
+                    "ceilOffset": 4.0,
+                    "doorType": "door_locked",
+                    "ground": "stone",
+                    "ceiling": "stone",
+                    "wall": "default",
+                    "customRule": "none"
+                }
+            ],
+            "groupExtraObjects": [],
+            "subgroups": [
+                {
+                    "list": [
+                        {
+                            "description": "",
+                            "probability": 1.0,
+                            "subgroupTiles": [
+                                {
+                                    "possibleTiles": [
+                                        "ground"
+                                    ],
+                                    "pos": {
+                                        "x": 1,
+                                        "y": 1
+                                    },
+                                    "rot": 0,
+                                    "canSpawnSecret": true,
+                                    "extraFlags": [],
+                                    "isDoor": false,
+                                    "wallInset": 0.0,
+                                    "yOffset": 0.0,
+                                    "groundOffset": 0.0,
+                                    "ceilOffset": 4.0,
+                                    "doorType": "default",
+                                    "ground": "stone",
+                                    "ceiling": "stone",
+                                    "wall": "default",
+                                    "customRule": "none"
+                                },
+                                {
+                                    "possibleTiles": [
+                                        "ground"
+                                    ],
+                                    "pos": {
+                                        "x": 2,
+                                        "y": 1
+                                    },
+                                    "rot": 0,
+                                    "canSpawnSecret": true,
+                                    "extraFlags": [],
+                                    "isDoor": false,
+                                    "wallInset": 0.0,
+                                    "yOffset": 0.0,
+                                    "groundOffset": 0.0,
+                                    "ceilOffset": 4.0,
+                                    "doorType": "default",
+                                    "ground": "stone",
+                                    "ceiling": "stone",
+                                    "wall": "default",
+                                    "customRule": "none"
+                                }
+                            ],
+                            "subgroupExtraObjects": [
+                                {
+                                    "identifier": "prop_pot",
+                                    "pos": {
+                                        "x": 9.410551071166993,
+                                        "y": -0.007079601287841797,
+                                        "z": 4.007911682128906
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "table_variant",
+                                    "pos": {
+                                        "x": 5.514155387878418,
+                                        "y": -5.960464477539063e-8,
+                                        "z": 3.9726688861846926
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 178.42236328125,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "table_variant",
+                                    "pos": {
+                                        "x": 3.485844135284424,
+                                        "y": -5.960464477539063e-8,
+                                        "z": 4.0273308753967289
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 358.42236328125,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": 5.0,
+                                        "y": 0.0,
+                                        "z": 2.21875
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 180.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": 3.0,
+                                        "y": 0.0,
+                                        "z": 2.21875
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 180.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": 7.0,
+                                        "y": 0.0,
+                                        "z": 2.21875
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 180.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": 5.0,
+                                        "y": 0.0,
+                                        "z": 5.78125
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": 3.0002570152282717,
+                                        "y": 0.0,
+                                        "z": 5.78125
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": 7.0,
+                                        "y": 0.0,
+                                        "z": 5.78125
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 0
+                                }
+                            ]
+                        },
+                        {
+                            "description": "",
+                            "probability": 1.0,
+                            "subgroupTiles": [
+                                {
+                                    "possibleTiles": [
+                                        "ground"
+                                    ],
+                                    "pos": {
+                                        "x": 1,
+                                        "y": 1
+                                    },
+                                    "rot": 0,
+                                    "canSpawnSecret": true,
+                                    "extraFlags": [],
+                                    "isDoor": false,
+                                    "wallInset": 0.0,
+                                    "yOffset": 0.0,
+                                    "groundOffset": 0.0,
+                                    "ceilOffset": 4.0,
+                                    "doorType": "default",
+                                    "ground": "stone",
+                                    "ceiling": "stone",
+                                    "wall": "default",
+                                    "customRule": "none"
+                                },
+                                {
+                                    "possibleTiles": [
+                                        "ground"
+                                    ],
+                                    "pos": {
+                                        "x": 2,
+                                        "y": 1
+                                    },
+                                    "rot": 0,
+                                    "canSpawnSecret": true,
+                                    "extraFlags": [],
+                                    "isDoor": false,
+                                    "wallInset": 0.0,
+                                    "yOffset": 0.0,
+                                    "groundOffset": 0.0,
+                                    "ceilOffset": 4.0,
+                                    "doorType": "default",
+                                    "ground": "stone",
+                                    "ceiling": "stone",
+                                    "wall": "default",
+                                    "customRule": "none"
+                                }
+                            ],
+                            "subgroupExtraObjects": [
+                                {
+                                    "identifier": "table_variant",
+                                    "pos": {
+                                        "x": 4.563528060913086,
+                                        "y": -5.692811555491062e-8,
+                                        "z": 4.426369667053223
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 358.42236328125,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 1
+                                },
+                                {
+                                    "identifier": "bookshelf_full_big",
+                                    "pos": {
+                                        "x": 6.294766426086426,
+                                        "y": 9.5367431640625e-7,
+                                        "z": 5.0
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 90.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 1
+                                },
+                                {
+                                    "identifier": "bookshelf_full_big",
+                                    "pos": {
+                                        "x": 6.743624687194824,
+                                        "y": 9.5367431640625e-7,
+                                        "z": 5.0
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 270.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 1
+                                },
+                                {
+                                    "identifier": "bookshelf_full_big",
+                                    "pos": {
+                                        "x": 2.2200000286102297,
+                                        "y": 9.5367431640625e-7,
+                                        "z": 5.0
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 90.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 1
+                                },
+                                {
+                                    "identifier": "bookshelf_full_big",
+                                    "pos": {
+                                        "x": 2.6472504138946535,
+                                        "y": 9.5367431640625e-7,
+                                        "z": 5.000000476837158
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 270.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 0,
+                                    "subgroupIDIndex": 1
+                                }
+                            ]
+                        },
+                        {
+                            "description": "",
+                            "probability": 1.0,
+                            "subgroupTiles": [],
+                            "subgroupExtraObjects": []
+                        }
+                    ]
+                },
+                {
+                    "list": [
+                        {
+                            "description": "",
+                            "probability": 1.0,
+                            "subgroupTiles": [
+                                {
+                                    "possibleTiles": [
+                                        "ground"
+                                    ],
+                                    "pos": {
+                                        "x": -1,
+                                        "y": 1
+                                    },
+                                    "rot": 0,
+                                    "canSpawnSecret": true,
+                                    "extraFlags": [],
+                                    "isDoor": false,
+                                    "wallInset": 0.0,
+                                    "yOffset": 0.0,
+                                    "groundOffset": 0.0,
+                                    "ceilOffset": 4.0,
+                                    "doorType": "default",
+                                    "ground": "stone",
+                                    "ceiling": "stone",
+                                    "wall": "default",
+                                    "customRule": "none"
+                                },
+                                {
+                                    "possibleTiles": [
+                                        "ground"
+                                    ],
+                                    "pos": {
+                                        "x": -2,
+                                        "y": 1
+                                    },
+                                    "rot": 0,
+                                    "canSpawnSecret": true,
+                                    "extraFlags": [],
+                                    "isDoor": false,
+                                    "wallInset": 0.0,
+                                    "yOffset": 0.0,
+                                    "groundOffset": 0.0,
+                                    "ceilOffset": 4.0,
+                                    "doorType": "default",
+                                    "ground": "stone",
+                                    "ceiling": "stone",
+                                    "wall": "default",
+                                    "customRule": "none"
+                                }
+                            ],
+                            "subgroupExtraObjects": [
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": -4.807762145996094,
+                                        "y": 0.0,
+                                        "z": 4.9943037033081059
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 90.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": -7.140496730804443,
+                                        "y": 0.0,
+                                        "z": 3.0065510272979738
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 90.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": -6.709805965423584,
+                                        "y": 0.0,
+                                        "z": 3.0065510272979738
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 270.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": -4.388282299041748,
+                                        "y": 0.0,
+                                        "z": 4.9943037033081059
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 270.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 0
+                                },
+                                {
+                                    "identifier": "prop_chest_default",
+                                    "pos": {
+                                        "x": -8.599512100219727,
+                                        "y": 5.960464477539063e-8,
+                                        "z": 4.156562805175781
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 90.00003051757813,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 0
+                                }
+                            ]
+                        },
+                        {
+                            "description": "",
+                            "probability": 1.0,
+                            "subgroupTiles": [
+                                {
+                                    "possibleTiles": [
+                                        "ground"
+                                    ],
+                                    "pos": {
+                                        "x": -1,
+                                        "y": 1
+                                    },
+                                    "rot": 0,
+                                    "canSpawnSecret": true,
+                                    "extraFlags": [],
+                                    "isDoor": false,
+                                    "wallInset": 0.0,
+                                    "yOffset": 0.0,
+                                    "groundOffset": 0.0,
+                                    "ceilOffset": 4.0,
+                                    "doorType": "default",
+                                    "ground": "stone",
+                                    "ceiling": "stone",
+                                    "wall": "default",
+                                    "customRule": "none"
+                                }
+                            ],
+                            "subgroupExtraObjects": [
+                                {
+                                    "identifier": "prop_chest_golden",
+                                    "pos": {
+                                        "x": -3.192244529724121,
+                                        "y": 0.0,
+                                        "z": 4.0468339920043949
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 90.00003051757813,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 1
+                                },
+                                {
+                                    "identifier": "crate_pot_group",
+                                    "pos": {
+                                        "x": -4.914212226867676,
+                                        "y": 0.0,
+                                        "z": 3.526667594909668
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 90.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 1
+                                }
+                            ]
+                        },
+                        {
+                            "description": "",
+                            "probability": 1.0,
+                            "subgroupTiles": [
+                                {
+                                    "possibleTiles": [
+                                        "ground"
+                                    ],
+                                    "pos": {
+                                        "x": -1,
+                                        "y": 1
+                                    },
+                                    "rot": 0,
+                                    "canSpawnSecret": true,
+                                    "extraFlags": [],
+                                    "isDoor": false,
+                                    "wallInset": 0.0,
+                                    "yOffset": 0.0,
+                                    "groundOffset": 0.0,
+                                    "ceilOffset": 4.0,
+                                    "doorType": "default",
+                                    "ground": "stone",
+                                    "ceiling": "stone",
+                                    "wall": "default",
+                                    "customRule": "none"
+                                },
+                                {
+                                    "possibleTiles": [
+                                        "ground"
+                                    ],
+                                    "pos": {
+                                        "x": -2,
+                                        "y": 1
+                                    },
+                                    "rot": 0,
+                                    "canSpawnSecret": true,
+                                    "extraFlags": [],
+                                    "isDoor": false,
+                                    "wallInset": 0.0,
+                                    "yOffset": 0.0,
+                                    "groundOffset": 0.0,
+                                    "ceilOffset": 4.0,
+                                    "doorType": "default",
+                                    "ground": "stone",
+                                    "ceiling": "stone",
+                                    "wall": "default",
+                                    "customRule": "none"
+                                }
+                            ],
+                            "subgroupExtraObjects": [
+                                {
+                                    "identifier": "prop_chest_golden",
+                                    "pos": {
+                                        "x": -9.459432601928711,
+                                        "y": 5.960464477539063e-8,
+                                        "z": 2.9618239402770998
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 90.00003051757813,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 2
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": -6.0,
+                                        "y": 0.0,
+                                        "z": 2.21875
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 180.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 2
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": -7.999999523162842,
+                                        "y": 0.0,
+                                        "z": 2.21875
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 180.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 2
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": -8.0,
+                                        "y": 0.0,
+                                        "z": 5.78125
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 2
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": -6.0,
+                                        "y": 0.0,
+                                        "z": 5.78125
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 2
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": -4.0,
+                                        "y": 0.0,
+                                        "z": 5.78125
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 2
+                                },
+                                {
+                                    "identifier": "bookshelf_full",
+                                    "pos": {
+                                        "x": -4.0,
+                                        "y": 0.0,
+                                        "z": 2.21875
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 180.0,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 2
+                                },
+                                {
+                                    "identifier": "table_variant",
+                                    "pos": {
+                                        "x": -6.485844135284424,
+                                        "y": -5.960464477539063e-8,
+                                        "z": 3.972647190093994
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 178.42236328125,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 2
+                                },
+                                {
+                                    "identifier": "table_variant",
+                                    "pos": {
+                                        "x": -8.485865592956543,
+                                        "y": -5.960464477539063e-8,
+                                        "z": 3.972647190093994
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 178.42236328125,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 2
+                                },
+                                {
+                                    "identifier": "table_variant",
+                                    "pos": {
+                                        "x": -4.485844135284424,
+                                        "y": -5.960464477539063e-8,
+                                        "z": 3.972647190093994
+                                    },
+                                    "rot": {
+                                        "x": 0.0,
+                                        "y": 178.42236328125,
+                                        "z": 0.0
+                                    },
+                                    "customData": "",
+                                    "restrictToFloor": -10,
+                                    "groupID": 1,
+                                    "subgroupID": 1,
+                                    "subgroupIDIndex": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
