@@ -1,0 +1,1445 @@
+achievements_title;Milestones
+achievement_ui_unlocks_item;Unlocks:
+ach_aberration_obliteration_desc;Defeat one hundred aberrant enemies.
+ach_aberration_obliteration_name;Aberration Obliteration
+ach_antique_antik_desc;Destroy a Sacrifice Statue.
+ach_antique_antik_name;Antique Antik
+ach_apprentice_cartographer_desc;Discover your first point of interest
+ach_apprentice_cartographer_name;Apprentice Cartographer
+ach_attics_anonymous_desc;Discover a secret room in the ceiling.
+ach_attics_anonymous_name;Attics Anonymous
+ach_a_battle_won_desc;Damage The Beast with the Mercenary's Armament.
+ach_a_battle_won_name;A Battle Won
+ach_a_contract_completed_desc;Damage The Beast with the Assassin's Armament.
+ach_a_contract_completed_name;A Contract Completed
+ach_a_dread_pact_fulfilled_desc;Damage The Beast with the Magician's Armament in hard mode (1.75x).
+ach_a_dread_pact_fulfilled_name;A Dread Pact Fulfilled
+ach_a_hard_battle_won_desc;Damage The Beast with the Mercenary's Armament in hard mode (1.75x).
+ach_a_hard_battle_won_name;A Hard Battle Won
+ach_a_hard_contract_completed_desc;Damage The Beast with the Assassin's Armament in Hard Mode (1.75x)
+ach_a_hard_contract_completed_name;A Hard Contract Completed
+ach_a_pact_fulfilled_desc;Damage The Beast with the Magician's Armament.
+ach_a_pact_fulfilled_name;A Pact Fulfilled
+ach_big_spender_desc;Acquire four items from shops during a single delve.
+ach_big_spender_name;Big Spender
+ach_black_friday_desc;Raise your merchant discount to 60%.
+ach_black_friday_name;Black Friday
+ach_ceramic_panic_desc;Destroy one thousand pots.
+ach_ceramic_panic_name;Ceramic Panic
+ach_close_the_book_desc;Discover all items.
+ach_close_the_book_name;Close The Book
+ach_crush_capitalism_desc;Defeat a Mad Merchant
+ach_crush_capitalism_name;Crush Capitalism
+ach_deep_cut_desc;Deal at least twenty-five damage with a single strike.
+ach_deep_cut_name;Deep Cut
+ach_deep_pockets_desc;Carry more than two hundred fifty coins during a single delve.
+ach_deep_pockets_name;Deep Pockets
+ach_dentist_delight_desc;Consume a food item made of gold.
+ach_dentist_delight_name;Dentist's Delight
+ach_empty_belly_desc;Escape The Ancient Dungeon without consuming any food items.
+ach_empty_belly_name;Empty Belly
+ach_errant_entrance_desc;Discover a secret room in the wall.
+ach_errant_entrance_name;Errant Entrance
+ach_feed_the_friend_desc;Throw a dragonfruit into a pit.
+ach_feed_the_friend_name;Feed The Friend
+ach_good_luck_desc;Enter the Ancient Dungeon for the first time
+ach_good_luck_name;Good Luck!
+ach_grand_cartographer_desc;Discover a point of interest on every floor
+ach_grand_cartographer_name;Grand Cartographer
+ach_grand_slammed_desc;Defeat 1000 enemies.
+ach_grand_slammed_name;Grand Slammed
+ach_grand_spammed_desc;Spend 1000 coins at shops.
+ach_grand_spammed_name;Grand Spammed
+ach_hale_and_hearty_desc;Acquire more than five full hearts of health.
+ach_hale_and_hearty_name;Hale And Hearty
+ach_hammer_time_desc;Use The Blacksmith's Anvil to augment a weapon.
+ach_hammer_time_name;Hammer Time
+ach_have_a_nice_trip_see_you_next_fall_desc;Fall into a pit in each floor and win the run.
+ach_have_a_nice_trip_see_you_next_fall_name;Have A Nice Trip, See You Next Fall
+ach_itsy_bitsy_desc;Use a Contracting Orb to shrink yourself.
+ach_itsy_bitsy_name;Itsy Bitsy
+ach_jackpot_desc;Win big on The Merchant's slot machine.
+ach_jackpot_name;Jackpot!
+ach_jingleheimer_schmidt_desc;Carry more than twenty keys during a single delve.
+ach_jingleheimer_schmidt_name;Jingleheimer Schmidt
+ach_laid_to_rest_desc;Complete 3 unique sealed soul delves.
+ach_laid_to_rest_name;Laid to Rest
+ach_lost_levels_desc;Discover a hidden floor.
+ach_lost_levels_name;Lost Levels
+ach_master_of_unlocking_desc;Open 250 chests
+ach_master_of_unlocking_name;Master of Unlocking
+ach_merchant_shop_boycott_desc;Escape the Ancient Dungeon without entering a shop.
+ach_merchant_shop_boycott_name;Merchant Shop Boycott
+ach_merciless_killer_desc;Fully augment the Assassin's Armament.
+ach_merciless_killer_name;Merciless Killer
+ach_mind_if_we_pop_in_desc;Overcome a Challenge Chest's trial.
+ach_mind_if_we_pop_in_name;Mind If We Pop In?
+ach_model_adventurer_desc;Escape The Ancient Dungeon with a difficulty modifier of 3.00
+ach_model_adventurer_name;Model Adventurer
+ach_model_explorer_desc;Escape The Ancient Dungeon with a difficulty modifier of 2.25
+ach_model_explorer_name;Model Explorer
+ach_mosquito_bite_desc;Damage The Beast for the first time
+ach_mosquito_bite_name;Mosquito Bite
+ach_overstuffed_desc;Eat every tier of food during a single delve.
+ach_overstuffed_name;Overstuffed
+ach_quick_like_a_bunny_desc;Escape the Ancient Dungeon in under twenty minutes.
+ach_quick_like_a_bunny_name;Quick Like A Bunny
+ach_reliquary_carry_desc;Collect more than 30 relics in a single run.
+ach_reliquary_carry_name;Reliquary Carry
+ach_risky_bossness_desc;Challenge and destroy a boss with only a half-heart of health
+ach_risky_bossness_name;Risky Boss-ness
+ach_savage_soldier_desc;Fully augment the Mercenary's Armament.
+ach_savage_soldier_name;Savage Soldier
+ach_shiney_slimey_desc;Defeat a Golden Slime.
+ach_shiney_slimey_name;Shiney Slimey
+ach_show_off_desc;Escape the dungeon without obtaining any upgrade items.
+ach_show_off_name;Show Off
+ach_spoilsport_desc;Defeat a boss enemy with a single strike.
+ach_spoilsport_name;Spoilsport
+ach_surprise_teeth_desc;Defeat a Chest Mimic.
+ach_surprise_teeth_name;Surprise! Teeth!
+ach_they_belong_in_a_museum_desc;Collect more than 500 relics in total.
+ach_they_belong_in_a_museum_name;They Belong in a Museum!
+ach_the_anosmic_desc;Traverse The Noxious Sewers without taking any damage.
+ach_the_anosmic_name;The Anosmic
+ach_the_caretaker_desc;Traverse The Beast's Cradle without taking any damage.
+ach_the_caretaker_name;The Caretaker
+ach_the_delver_desc;Traverse The Infested Dungeon without taking any damage.
+ach_the_delver_name;The Delver
+ach_the_gatekeeper_desc;Traverse The Overgrown Gatehouse without taking any damage.
+ach_the_gatekeeper_name;The Gatekeeper
+ach_the_librarian_desc;Traverse The Forgotten Library without taking any damage.
+ach_the_librarian_name;The Librarian
+ach_the_miner_desc;Traverse The Gloaming Mines without taking any damage.
+ach_the_miner_name;The Miner
+ach_the_spelunker_desc;Traverse The Luminous Depths without taking any damage.
+ach_the_spelunker_name;The Spelunker
+ach_try_harder_desc;Escape The Ancient Dungeon after re-entering twice.
+ach_try_harder_name;Try Harder
+ach_try_hard_desc;Escape The Ancient Dungeon after re-entering once.
+ach_try_hard_name;Try Hard
+ach_try_hard_with_a_vengeance_desc;Escape The Ancient Dungeon after re-entering three times.
+ach_try_hard_with_a_vengeance_name;Try Hard with a Vengeance
+ach_unerring_daring_desc;Strike enemies with a ranged weapon twenty-five times in a row without missing.
+ach_unerring_daring_name;Unerring Daring
+ach_unsealed_souls_desc;Complete the delve of every Sealed Soul.
+ach_unsealed_souls_name;Unsealed Souls
+ach_un_parry_leled_desc;Defeat a Possessed Armor.
+ach_un_parry_leled_name;Un-parry-leled
+ach_ur2op_desc;Acquire three highly powerful items during a single delve.
+ach_ur2op_name;UR2OP
+ach_wanderlust_desc;Explore two hundred fifty rooms within The Ancient Dungeon.
+ach_wanderlust_name;Wanderlust
+ach_you_break_it_you_buy_it_desc;Lower your merchant discount to -100%.
+ach_you_break_it_you_buy_it_name;You Break It, You Buy It
+ach_you_have_a_problem_desc;Use a Bandit Box at least twenty times during a single delve.
+ach_you_have_a_problem_name;You Have A Problem
+acolyte_unlocked_hardmode;Unlocked hard mode in the run preparation screen!
+acolyte_unlocked_insight_shop;Unlocked the Insight Shop!<br><br>Find it next to the Acolyte.
+alchemist_delve_desc;The Alchemist concocted elixirs of terrible power. They will be your only defense within the dungeon.
+alchemist_delve_name;The Alchemist's Delve
+apply;Apply
+apply_changes;Apply Changes
+ascetic_delve_desc;The Ascetic believed in strength through deprivation. The dungeon will leave you with empty hands.
+ascetic_delve_name;The Ascetic's Delve
+back;Back
+bc_beast_3_bestiary_name;<color=#ff0000>(Boss)</color> The Beast
+beasts_cradle;The Beast's Cradle
+beasts_cradle_text;I fear I am at my end.<br><br>For all my desperate wandering, I believe I have only ventured deeper into this labyrinth, possibly to its very heart. I can feel a terrible presence here, pressing at the back of my mind, pressing me towards it.<br><br>I have resisted, but now the promise of rest seems a greater gift than life itself. The Child hungers, and must be fed.<br><br>To any who find these writings, I wish you a better fate than my own.
+beasts_cradle_title;Beast's Cradle
+beast_blood_shop_augment_weapon;Augment Weapon
+beast_blood_shop_desc;Improve your weapon by augmenting it with the blood of the beast
+beast_blood_shop_subtitle;All of the blacksmith's weapons can be augmented using Beast Blood, which can be acquired by defeating the Beast.
+beast_blood_shop_title;Weapon Augmentation
+berserker_delve_desc;The Berserker exulted in death and danger. The dungeon will have an increased enemy count.
+berserker_delve_name;The Berserker's Delve
+biologist_delve_desc;The Biologist delighted in observing all creatures. The dungeon will contain a menagerie.
+biologist_delve_name;The Biologist's Delve
+blacksmith_unlocked_augmentshop;Unlocked Weapon Augmentation at the blacksmith's anvil!
+blacksmith_unlocked_crossbow;Unlocked the Crossbow & Dagger Weapon Combo!
+blacksmith_unlocked_tome;Unlocked the Tome & Wand Weapon Combo!
+boss_Armored Wight;Armored Wight
+boss_corrupted shopkeeper;Corrupted Shopkeeper
+boss_crystal_prisom_bestiary_name;<color=#ff0000>(Boss)</color> Crystal Prisom
+boss_Deranged Adventurer;Deranged Adventurer
+boss_deranged_adventurer_bestiary_name;<color=#ff0000>(Boss)</color> Deranged Adventurer
+boss_DoomShroom;DoomShroom
+boss_doomshroom_bestiary_name;<color=#ff0000>(Boss)</color> Doomshroom
+boss_Elder Skeleton;Elder Skeleton
+boss_fight_announcement;Boss Fight!
+boss_fly_hive_bestiary_name;<color=#ff0000>(Boss)</color> The Swarm
+boss_King Slime;King Slime
+boss_king_slime_bestiary_name;<color=#ff0000>(Boss)</color> King Slime
+boss_Rabid Bestiary;Rabid Bestiary
+boss_rabid_bestiary_bestiary_name;<color=#ff0000>(Boss)</color> Rabid Bestiary
+boss_stone_skeleton_bestiary_name;<color=#ff0000>(Boss)</color> Elder Skeleton
+buy;Buy
+buy_item_cant_afford;Can't afford item
+buy_item_free;Free!
+buy_item_press_trigger;Press Trigger to buy
+cancel;Cancel
+cant_save_console_used;Console was used, saving is not possible!
+cant_teleport_in_boss_fight;Can't teleport. Boss fight is active!
+cant_teleport_player_in_menu;Can't teleport. Player is in menu!
+cant_teleport_player_is_dead;Can't teleport. Player is dead!
+cartographer_delve_desc;The Cartographer thrilled in walking untrodden paths. The dungeon will be a lot larger than usual.
+cartographer_delve_name;The Cartographer's Delve
+changelog;<color=orange>ea0.1.3.5</color><br>- 4 new milestones<br>- 8 new items<br>- hard mode modifiers<br>- a few new rooms<br><br><color=orange>ea0.1.3.0</color><br>- 24 new journal pages to discover, 8 new items<br><br><color=orange>ea0.1.2.0</color><br>- the game now runs on OpenXR<br>- tons of performance improvements, bugfixes and optimizations<br>- new insight system<br>- new settings menu<br>- shadow support (PCVR only)
+changelog_hint;(for a full list, refer to the patchnotes outside the game)
+changelog_title;Changelog
+choose_a_category;Choose a category
+close;Close
+coins;Coins
+compendium_monsters;Monsters
+compendium_relics;Relics
+configure;Configure
+connect;Connect
+continue;Continue
+continue_last_run_dungeon;Continue Saved Dungeon Run
+continue_last_run_arena;Continue Saved Arena Run
+credits;Credits
+credits_a_game_by;A game by
+credits_kickstarter;Thanks to all kickstarter supporters that made this game possible!
+credits_main_development;Main Development
+credits_music;<color=#e62>Music</color><br>Elben Schutte &<br>Daniel Caleb
+credits_narrative;<color=#e62>Narrative Design</color><br>Christopher Walton
+credits_programming;<color=#e62>Programming</color><br>Thom de Meulder &<br>Sebastian Wrobel
+credits_sound;<color=#e62>Sound</color><br>Damon McKenzie
+credits_thanks;Thanks to the ADVR discord moderators, testers and everyone that helped out!
+crossbowdagger_combo_name;Crossbow & Dagger
+crossbowdagger_primary_crit_stat_name;Cbow Crit
+crossbowdagger_primary_damage_stat_name;Cbow Dmg
+crossbowdagger_primary_name;Cbow
+crossbowdagger_secondary_crit_stat_name;Dagger Crit
+crossbowdagger_secondary_damage_stat_name;Dagger Dmg
+crossbowdagger_secondary_name;Dagger
+disabled;Disabled
+disconnect;Disconnect
+dominant_hand;Dominant Hand
+done;Done
+dungeon_approach;The Dungeon Approach
+enabled;Enabled
+enemy_bc_skull_darkness_bestiary_name;Skull of Darkness
+enemy_bg_plant_rotten_bestiary_name;Jade Bloom
+enemy_bg_poison_spitter_bestiary_name;Noxious Spout
+enemy_bg_slime_rotten_abberrant_bestiary_name;<color=#ff99ff>(Aberrant) </color> Aberant Glow Slime
+enemy_chest_mimic_bestiary_name;Mimic
+enemy_corrupted_shopkeeper_bestiary_name;The Shopkeeper
+enemy_fg_book_abberrant_bestiary_name;<color=#ff99ff>(Aberrant) </color> Tome of Wizardry
+enemy_fg_book_bestiary_name;Tome of Magic
+enemy_fg_book_exploding_bestiary_name;Tome of Sorcery
+enemy_fg_elemental_magic_bestiary_name;Forgotten Elemental
+enemy_fg_possessed_armor_bestiary_name;Possessed Armor
+enemy_fg_slime_phase_abberrant_bestiary_name;<color=#ff99ff>(Aberrant) </color> Orange Zip Slime
+enemy_fg_slime_phase_bestiary_name;Forgotten Zip Slime
+enemy_fg_targeting_beam_bestiary_name;Forgotten Prizm
+enemy_fg_wisp_abberrant_bestiary_name;<color=#ff99ff>(Aberrant) </color> Purple Wisp
+enemy_fg_wisp_bestiary_name;Forgotten Wisp
+enemy_gm_possessed_skull_bestiary_name;Gloaming Skull
+enemy_gm_rock_elemental_bestiary_name;Gloaming Elemental
+enemy_gm_sentryplant_bestiary_name;Gloaming Sprig
+enemy_gm_skeleton_bestiary_name;Gloaming Skeleton
+enemy_gm_skeleton_miner_bestiary_name;Gloaming Skeleton Miner
+enemy_gm_slime_bone_bestiary_name;Gloaming Glob Burster
+enemy_gm_slime_stone_bestiary_name;Gloaming Glob Spiker
+enemy_id_goo_exploding_bestiary_name;Exploding Goo
+enemy_id_maggot_abberrant_bestiary_name;<color=#ff99ff>(Aberrant) </color> Infested Bomb Grub
+enemy_id_maggot_bestiary_name;Infested Grub
+enemy_id_mushroom_rotten_bestiary_name;Infested Shroom
+enemy_id_possessed_axe_bestiary_name;Possessed Axe
+enemy_id_slime_bestiary_name;Infested Slime
+enemy_id_slime_big_abberrant_bestiary_name;<color=#ff99ff>(Aberrant) </color> Infested Great Slime
+enemy_id_slime_bullet_bestiary_name;Infested Gob Slime
+enemy_id_wight_bestiary_name;Infested Zombie Lunger
+enemy_invincibility_tome_bestiary_name;Invincibility Tome
+enemy_ld_crystal_elemental_bestiary_name;Luminous Elemental
+enemy_ld_fat_crystal_slime_bestiary_name;Luminous Great Slime
+enemy_ld_plant_crystal_bestiary_name;Luminous Bloom
+enemy_ld_possessed_skull_bestiary_name;Luminous Skull
+enemy_ld_rotatingbeam_bestiary_name;Luminous Prizm
+enemy_ld_sentryplant_bestiary_name;Luminous Blossom
+enemy_ld_skeleton_bestiary_name;Luminous Skeleton
+enemy_ld_slime_crystal_bestiary_name;Luminous Glob Burster
+enemy_ns_fly_bestiary_name;Fly
+enemy_ns_fly_hive_bestiary_name;Fly Hive
+enemy_ns_maggot_bestiary_name;Noxious Grub
+enemy_ns_slime_bestiary_name;Noxious Puddle Slime
+enemy_ns_slime_rotten_bestiary_name;Noxious Slime
+enemy_ns_slime_tiny_bestiary_name;Noxious Smol Slime
+enemy_ns_wight_drowned_bestiary_name;Noxious Drowned Zombie
+enemy_og_bat_abberrant_bestiary_name;<color=#ff99ff>(Aberrant) </color> Overgrown Bounce Bat
+enemy_og_bat_bestiary_name;Overgrown Bat
+enemy_og_plant_4x_abberrant_bestiary_name;<color=#ff99ff>(Aberrant) </color> Azure Bloom
+enemy_og_plant_4x_bestiary_name;Scarlet Bloom
+enemy_og_plant_homing_bestiary_name;Violet Bloom
+enemy_og_slime_armored_bestiary_name;Overgrown Armor Slime
+enemy_og_slime_bestiary_name;Overgrown Slime
+enemy_og_slime_big_bestiary_name;Overgrown Great Slime
+enemy_og_slime_bullet_abberrant_bestiary_name;<color=#ff99ff>(Aberrant) </color> Aberant Gob Slime
+enemy_og_slime_bullet_bestiary_name;Overgrown Gob Slime
+enemy_og_wight_advanced_bestiary_name;Overgrown Zombie Lunger
+enemy_og_wight_bestiary_name;Overgrown Zombie
+enemy_og_wight_crawling_bestiary_name;Overgrown Zombie Crawler
+enemy_poi_poison_sentry_bestiary_name;Noxious Sprig
+enemy_shopkeeper_corrupted_mask_bestiary_name;Possessed Mask
+enemy_slime_golden_bestiary_name;Golden Slime <color=#d4af37>(Special)</color>
+erthu_chrwa_abacus_bead_desc;Ranged strikes have a chance to hit twice
+erthu_chrwa_abacus_bead_name;Abacus Bead
+erthu_chrwa_alchemists_mark_desc;Once charged, use to produce a random orb
+erthu_chrwa_alchemists_mark_name;Alchemist's Mark
+erthu_chrwa_anarchists_brand_desc;For a cost, use to cause an explosion
+erthu_chrwa_anarchists_brand_name;Anarchist's Brand
+erthu_chrwa_anarchists_mark_desc;Once charged, use to cause an explosion
+erthu_chrwa_anarchists_mark_name;Anarchist's Mark
+erthu_chrwa_ascetics_mark_desc;Once charged, use to improve a random characteristic
+erthu_chrwa_ascetics_mark_name;Ascetic's Mark
+erthu_chrwa_assassins_mark_desc;Once charged, use to destroy a nearby enemy
+erthu_chrwa_assassins_mark_name;Assassins Mark
+erthu_chrwa_avenging_angle_desc;When hit by a regular enemy, the enemy will be destroyed
+erthu_chrwa_avenging_angle_name;Avenging Angle
+erthu_chrwa_bamboo_firecracker_desc;Your projectile strikes cause an explosion
+erthu_chrwa_bamboo_firecracker_desc_override_magicwand;Your orbs cause an explosion
+erthu_chrwa_bamboo_firecracker_name;Bamboo Firecracker
+erthu_chrwa_bargain_signed_in_blood_desc;When hit, gain five coins
+erthu_chrwa_bargain_signed_in_blood_name;Bargain Signed in Blood
+erthu_chrwa_bat_ear_desc;Area maps are fully revealed.
+erthu_chrwa_bat_ear_name;Bat Ear
+erthu_chrwa_bee_stinger_desc;Slightly increases melee damage, but decreases the size of your melee weapon
+erthu_chrwa_bee_stinger_desc_override_magicwand;Increases orb damage, but decreases the distance your orbs travel
+erthu_chrwa_bee_stinger_name;Bee Stinger
+erthu_chrwa_befouling_sludge_desc;Melee strikes cause additional damage after a short delay
+erthu_chrwa_befouling_sludge_desc_override_magicwand;Your book sweep attack causes additional damage after a short delay
+erthu_chrwa_befouling_sludge_name;Befouling Sludge
+erthu_chrwa_beloved_keepsake_desc;Gain one protection
+erthu_chrwa_beloved_keepsake_name;Beloved Keepsake
+erthu_chrwa_berserkers_mark_desc;Once charged, use to temporarily increase critical chance
+erthu_chrwa_berserkers_mark_name;Berserker's Mark
+erthu_chrwa_bitter_tears_desc;When health is low, weapon damage is significantly increased
+erthu_chrwa_bitter_tears_name;Bitter Tears
+erthu_chrwa_black_box_desc;Gain a random relic
+erthu_chrwa_black_box_name;Black Box
+erthu_chrwa_bloodshot_eye_desc;Moderately increases weapon damage, but decreases your number of hearts
+erthu_chrwa_bloodshot_eye_name;Bloodshot Eye
+erthu_chrwa_bloody_fingerprint_desc;Slightly increases ranged critical chance
+erthu_chrwa_bloody_fingerprint_desc_override_magicwand;Slightly increases spell critical chance
+erthu_chrwa_bloody_fingerprint_name;Bloody Fingerprint
+erthu_chrwa_blood_sausage_desc;Weapon damage is temporarily increased after destroying an enemy
+erthu_chrwa_blood_sausage_name;Blood Sausage
+erthu_chrwa_blunted_knucklebone_desc;Melee strikes have a chance to increase your number of coins
+erthu_chrwa_blunted_knucklebone_name;Blunted Knucklebone
+erthu_chrwa_bone_dice_desc;Improves a random characteristic
+erthu_chrwa_bone_dice_name;Bone Dice
+erthu_chrwa_bottled_lightning_desc;Projectiles slowly increase in size and damage, but reset after each strike
+erthu_chrwa_bottled_lightning_desc_override_magicwand;Orbs start smaller but grow larger the longer you hold them charged with your wand
+erthu_chrwa_bottled_lightning_name;Bottled Lightning
+erthu_chrwa_broken_shackle_desc;Pots have a small chance of containing keys
+erthu_chrwa_broken_shackle_name;Broken Shackle
+erthu_chrwa_broken_shield_desc;Massively increases critical chance, but incoming damage is sometimes increased
+erthu_chrwa_broken_shield_name;Broken Shield
+erthu_chrwa_caged_match_desc;Weapon damage is increased while in a sealed room
+erthu_chrwa_caged_match_name;Caged Match
+erthu_chrwa_calcified_pustule_desc;Ranged strikes produce a poisonous cloud, but projectiles are slower
+erthu_chrwa_calcified_pustule_name;Calcified Pustule
+erthu_chrwa_catgut_mesh_desc;Deflected enemy projectiles do more damage
+erthu_chrwa_catgut_mesh_name;Catgut Mesh
+erthu_chrwa_charm_of_a_first_love_desc;Gain one heart
+erthu_chrwa_charm_of_a_first_love_name;Charm of a First Love
+erthu_chrwa_chicken_dinner_desc;Bandit Boxes are guaranteed to provide a good reward after several attempts
+erthu_chrwa_chicken_dinner_name;Chicken Dinner
+erthu_chrwa_cinched_belt_desc;When health is low, eating food provides more health than usual
+erthu_chrwa_cinched_belt_name;Cinched Belt
+erthu_chrwa_clock_key_desc;When hit, time is temporarily slowed
+erthu_chrwa_clock_key_name;Clock Key
+erthu_chrwa_covetous_heart_desc;Gain one golden protection
+erthu_chrwa_covetous_heart_name;Covetous Heart
+erthu_chrwa_cracked_powderhorn_desc;Pots and crates explode when broken
+erthu_chrwa_cracked_powderhorn_name;Cracked Powderhorn
+erthu_chrwa_customer_card_desc;Moderately increases merchant discount
+erthu_chrwa_customer_card_name;Customer Card
+erthu_chrwa_dead_weight_desc;Your projectile does significantly more damage, but is larger and slower
+erthu_chrwa_dead_weight_desc_override_magicwand;Your orbs do significantly more damage, but are larger and travel slower
+erthu_chrwa_dead_weight_name;Dead Weight
+erthu_chrwa_deafening_bell_desc;When hit, nearby enemies are knocked back
+erthu_chrwa_deafening_bell_name;Deafening Bell
+erthu_chrwa_dis_armor_desc;You are immune to damage from traps and spikes.
+erthu_chrwa_dis_armor_name;Dis Armor
+erthu_chrwa_door_chime_desc;Summon a wisp when entering a room for the first time
+erthu_chrwa_door_chime_name;Door Chime
+erthu_chrwa_dowry_chest_desc;Gain two hearts but you fail to collect coins half of the time.
+erthu_chrwa_dowry_chest_name;Dowry Chest
+erthu_chrwa_dragon_lung_desc;When hit, nearby enemies are set on fire
+erthu_chrwa_dragon_lung_name;Dragon Lung
+erthu_chrwa_dueling_glove_desc;Significantly increases weapon damage against undamaged enemies
+erthu_chrwa_dueling_glove_name;Dueling Gloves
+erthu_chrwa_durian_husk_desc;Eating food will damage nearby enemies.
+erthu_chrwa_durian_husk_name;Durian Husk
+erthu_chrwa_embroidered_sleeve_desc;Gain a large amount of protection after destroying the next boss, but that boss's damage is doubled
+erthu_chrwa_embroidered_sleeve_name;Embroidered Sleeve
+erthu_chrwa_engagement_ring_desc;Sacrifice all hearts to gain twice that amount of protection
+erthu_chrwa_engagement_ring_name;Engagement Ring
+erthu_chrwa_estate_keys_desc;Gain ten keys
+erthu_chrwa_estate_keys_name;Estate Keys
+erthu_chrwa_exotic_spice_desc;Eating food has a chance to restore more health than usual
+erthu_chrwa_exotic_spice_name;Exotic Spice
+erthu_chrwa_foam_bat_desc;Initially decreases weapon damage, but destroying enemies will increase it past the original values, up to a limit
+erthu_chrwa_foam_bat_name;Foam Bat
+erthu_chrwa_forge_embers_desc;Weapon strikes have a chance to set enemies on fire
+erthu_chrwa_forge_embers_name;Forge Embers
+erthu_chrwa_fossilized_leech_desc;Marks charge more quickly
+erthu_chrwa_fossilized_leech_name;Fossilized Leech
+erthu_chrwa_four_leaf_clover_new_desc;Increases all attributes and maximizes luck.
+erthu_chrwa_four_leaf_clover_new_name;Four Leaf Clover
+erthu_chrwa_fragranced_letter_desc;Gain one protection after completing an area
+erthu_chrwa_fragranced_letter_name;Fragranced Letter
+erthu_chrwa_fungal_growth_desc;Projectiles emit damaging particles during flight.
+erthu_chrwa_fungal_growth_name;Fungal Growth
+erthu_chrwa_gamblers_mark_desc;Once charged, use to either gain one heart of health or lose a half-heart
+erthu_chrwa_gamblers_mark_name;Gambler's Mark
+erthu_chrwa_gaping_totem_desc;Significantly increases weapon damage, but each strike costs a coin
+erthu_chrwa_gaping_totem_name;Gaping Totem
+erthu_chrwa_glass_cannon_desc;Massively increases weapon damage, but your maximum number of hearts cannot exceed one
+erthu_chrwa_glass_cannon_name;Glass Cannon
+erthu_chrwa_glowing_spot_desc;Reduce bosses' health by 25% with your first weapon strike
+erthu_chrwa_glowing_spot_name;Glowing Spot
+erthu_chrwa_gluttons_mark_desc;Once charged, use to deal a small amount of damage to nearby enemies
+erthu_chrwa_gluttons_mark_name;Glutton's Mark
+erthu_chrwa_gnawed_off_paw_desc;When health is low, evasion is massively increased
+erthu_chrwa_gnawed_off_paw_name;Gnawed-Off Paw
+erthu_chrwa_gold_chime_desc;When hit, summon a wisp
+erthu_chrwa_gold_chime_name;Gold Chime
+erthu_chrwa_gold_tooth_desc;Slightly increases melee damage
+erthu_chrwa_gold_tooth_desc_override_magicwand;Slightly increases incantation damage
+erthu_chrwa_gold_tooth_name;Gold Tooth
+erthu_chrwa_granite_pestle_desc;While under an orb's effects, weapon strikes cause an explosion
+erthu_chrwa_granite_pestle_name;Granite Pestle
+erthu_chrwa_grinning_totem_desc;Consumes half of your keys and coins, but increases luck accordingly
+erthu_chrwa_grinning_totem_name;Grinning Totem
+erthu_chrwa_gruesome_trophy_desc;Slightly increases melee critical chance
+erthu_chrwa_gruesome_trophy_desc_override_magicwand;Slightly increases incantation critical chance
+erthu_chrwa_gruesome_trophy_name;Gruesome Trophy
+erthu_chrwa_halved_worm_desc;The next relic that can be picked up multiple times is applied twice
+erthu_chrwa_halved_worm_name;Halved Worm
+erthu_chrwa_hat_buckle_desc;Pots are more likely to contain coins
+erthu_chrwa_hat_buckle_name;Hat Buckle
+erthu_chrwa_healers_mark_desc;Once charged, use to gain a half-heart of health
+erthu_chrwa_healers_mark_name;Healer's Mark
+erthu_chrwa_heartstring_harp_desc;Gain a heart of health after completing an area
+erthu_chrwa_heartstring_harp_name;Heartstring Harp
+erthu_chrwa_heavy_yoke_desc;Doubles your number of hearts, but sets current health to half a heart
+erthu_chrwa_heavy_yoke_name;Heavy Yoke
+erthu_chrwa_holy_underwear_desc;Drastically increases weapon damage against aberrant enemies
+erthu_chrwa_holy_underwear_name;Holy Underwear
+erthu_chrwa_hummingbird_feather_desc;Projectiles are not affected by gravity
+erthu_chrwa_hummingbird_feather_name;Hummingbird Feather
+erthu_chrwa_impassioned_heart_desc;Sets enemies on fire when hit
+erthu_chrwa_impassioned_heart_name;Impassioned Heart
+erthu_chrwa_incentives_flyer_desc;Merchants provide health when you buy an item
+erthu_chrwa_incentives_flyer_name;Incentives Flyer
+erthu_chrwa_innocents_mark_desc;Once charged, use to summon a wisp
+erthu_chrwa_innocents_mark_name;Innocent's Mark
+erthu_chrwa_iron_stomach_desc;Gain some protection after eating food that restores more health than needed
+erthu_chrwa_iron_stomach_name;Iron Stomach
+erthu_chrwa_jade_turtleshell_desc;When hit, gain a brief period of invulnerability
+erthu_chrwa_jade_turtleshell_name;Jade Turtleshell
+erthu_chrwa_jail_keys_desc;Gain three keys
+erthu_chrwa_jail_keys_name;Jail Key
+erthu_chrwa_jousting_lance_desc;Critical strikes knock enemies back a great distance
+erthu_chrwa_jousting_lance_name;Jousting Lance
+erthu_chrwa_knights_mark_desc;Once charged, use to gain a period of invulnerability
+erthu_chrwa_knights_mark_name;Knight's Mark
+erthu_chrwa_lobster_bib_desc;Eating food will grant coins in addition to health
+erthu_chrwa_lobster_bib_name;Lobster Bib
+erthu_chrwa_lockpick_set_desc;Locks have a chance to open without consuming a key
+erthu_chrwa_lockpick_set_name;Lockpick Set
+erthu_chrwa_lost_lodestone_desc;Either melee or ranged damage slightly increases after completing an area
+erthu_chrwa_lost_lodestone_name;Lost Lodestone
+erthu_chrwa_lucky_horseshoe_desc;Subsequent areas will contain more golden chests
+erthu_chrwa_lucky_horseshoe_name;Lucky Horseshoe
+erthu_chrwa_magicians_mark_desc;Once charged, use to transform nearby relics
+erthu_chrwa_magicians_mark_name;Magician's Mark
+erthu_chrwa_magpie_wing_desc;Increases your luck and discount significantly but breakable objects no longer drop items
+erthu_chrwa_magpie_wing_name;Magpie Wing
+erthu_chrwa_merchants_mark_desc;Once charged, use to convert nearby relics to coins
+erthu_chrwa_merchants_mark_name;Merchants Mark
+erthu_chrwa_messengers_mark_desc;Once charged, use to dash
+erthu_chrwa_messengers_mark_name;Messenger's Mark
+erthu_chrwa_miners_mark_desc;Once charged, use to produce a line of damaging spikes
+erthu_chrwa_miners_mark_name;Miner's Mark
+erthu_chrwa_myopic_lens_desc;Your damage is drastically increased, but it alternates between your primary and secondary weapon
+erthu_chrwa_myopic_lens_desc_override_magicwand;Spell and Incantation damage alternates between high and low values, but averages higher overall.
+erthu_chrwa_myopic_lens_name;Myopic Lens
+erthu_chrwa_needle_of_oroborous_desc;Ranged strikes deal drastically increased damage, but misses damage you
+erthu_chrwa_needle_of_oroborous_name;Needle of Oroborous
+erthu_chrwa_old_pouch_desc;Gain twenty-five coins
+erthu_chrwa_old_pouch_name;Old Pouch
+erthu_chrwa_ominous_fingerprint_desc;Slightly increases ranged damage
+erthu_chrwa_ominous_fingerprint_desc_override_magicwand;Slightly increases spell damage
+erthu_chrwa_ominous_fingerprint_name;Ominous Fingerprint
+erthu_chrwa_overstock_flyer_desc;Merchants offer another item for sale after one is purchased
+erthu_chrwa_overstock_flyer_name;Overstock Flyer
+erthu_chrwa_packrat_mandible_desc;Significantly increases all characteristics, but acquiring other relics will damage you
+erthu_chrwa_packrat_mandible_name;Packrat Mandible
+erthu_chrwa_penitents_mark_desc;Once charged, sacrifice a small amount of health to have a chance to receive a random relic
+erthu_chrwa_penitents_mark_name;Penitent's Mark
+erthu_chrwa_penny_whistle_desc;Gain twenty coins after completing an area
+erthu_chrwa_penny_whistle_name;Penny Whistle
+erthu_chrwa_pickaxe_head_desc;Striking the ground with your melee weapon produces a line of damaging spikes
+erthu_chrwa_pickaxe_head_desc_override_magicwand;Your tome sweep attack produces a line of damaging spikes
+erthu_chrwa_pickaxe_head_name;Pickaxe Head
+erthu_chrwa_pit_friend_desc;Throwing food into pits has a chance to improve a random characteristic
+erthu_chrwa_pit_friend_name;Pit Friend
+erthu_chrwa_porcupine_quills_desc;Ranged attacks produce a burst of quills in addition to your projectile
+erthu_chrwa_porcupine_quills_name;Porcupine Quills
+erthu_chrwa_possessed_hammer_desc;Increases the size of your melee weapon
+erthu_chrwa_possessed_hammer_desc_override_magicwand;Increases the size and damage of your basic spell orbs
+erthu_chrwa_possessed_hammer_name;Possessed Hammer
+erthu_chrwa_potluck_ladle_desc;Rare relics may appear where they previously could not
+erthu_chrwa_potluck_ladle_name;Potluck Ladle
+erthu_chrwa_pristine_fletching_desc;Your projectile speed is massively increased and critical chance is slightly increased.
+erthu_chrwa_pristine_fletching_desc_override_magicwand;Your spell orbs travel massively faster and have a slightly increased critical chance.
+erthu_chrwa_pristine_fletching_name;Pristine Fletching
+erthu_chrwa_promotional_flyer_desc;The next merchant visited will offer a free item
+erthu_chrwa_promotional_flyer_name;Promotional Flyer
+erthu_chrwa_punctured_breastplate_desc;Ranged strikes have a chance to do massively more damage
+erthu_chrwa_punctured_breastplate_name;Punctured Breastplate
+erthu_chrwa_rabid_bearskin_desc;Gain a brief period of invulnerability after destroying an enemy
+erthu_chrwa_rabid_bearskin_name;Rabid Bearskin
+erthu_chrwa_relentless_orchestrina_desc;Summon an eternal wisp companion
+erthu_chrwa_relentless_orchestrina_name;Relentless Orchestrina
+erthu_chrwa_resolute_heart_desc;On hit, gain invincibility for a few seconds
+erthu_chrwa_resolute_heart_name;Resolute Heart
+erthu_chrwa_rodent_cache_desc;Gain an assortment of simple items
+erthu_chrwa_rodent_cache_name;Rodent Cache
+erthu_chrwa_rusty_keyring_desc;Enemies may drop keys when destroyed
+erthu_chrwa_rusty_keyring_name;Rusty Keyring
+erthu_chrwa_sharpened_eagle_talon_desc;Projectiles seek their target
+erthu_chrwa_sharpened_eagle_talon_name;Sharpened Eagle Talon
+erthu_chrwa_shattered_mirror_desc;Moderately increases all characteristics, but significantly decreases luck
+erthu_chrwa_shattered_mirror_name;Shattered Mirror
+erthu_chrwa_sheet_music_desc;Enemies have a chance to spawn a wisp when destroyed
+erthu_chrwa_sheet_music_name;Sheet Music
+erthu_chrwa_silk_chain_desc;Ranged strikes teleport enemies to you
+erthu_chrwa_silk_chain_name;Silk Chain
+erthu_chrwa_silver_chime_desc;Weapon strikes have a chance to summon wisps
+erthu_chrwa_silver_chime_name;Silver Chime
+erthu_chrwa_silver_spoon_desc;Marks have a chance to charge when coins are collected
+erthu_chrwa_silver_spoon_name;Silver Spoon
+erthu_chrwa_slobbering_totem_desc;Consumes all of your keys and coins, but increases weapon damage accordingly
+erthu_chrwa_slobbering_totem_name;Slobbering Totem
+erthu_chrwa_sprout_of_ivy_desc;Your melee weapon slowly increases in size and damage, but resets after each strike
+erthu_chrwa_sprout_of_ivy_desc_override_magicwand;Your orbs start small and weak, but grow in size and damage as they travel farther
+erthu_chrwa_sprout_of_ivy_name;Sprout of Ivy
+erthu_chrwa_stone_arrowhead_desc;Drastically increases weapon damage against flying enemies
+erthu_chrwa_stone_arrowhead_name;Stone Arrowhead
+erthu_chrwa_swollen_tick_desc;Enemies explode when destroyed
+erthu_chrwa_swollen_tick_name;Swollen Tick
+erthu_chrwa_thiefs_mark_desc;Once charged, use to gain a random relic
+erthu_chrwa_thiefs_mark_name;Thief's Mark
+erthu_chrwa_third_card_monte_desc;Moderately increases two characteristics, but significantly decreases another
+erthu_chrwa_third_card_monte_name;Third Card Monte
+erthu_chrwa_three_leaf_clover_desc;Slightly increases your luck.
+erthu_chrwa_three_leaf_clover_name;Three Leaf Clover
+erthu_chrwa_threshing_blade_desc;Weapon damage is divided equally among nearby enemies
+erthu_chrwa_threshing_blade_name;Threshing Blade
+erthu_chrwa_thrice_baked_beans_desc;You leave a trail of burning magma behind when moving
+erthu_chrwa_thrice_baked_beans_name;Thrice-Baked Beans
+erthu_chrwa_thundering_gong_desc;Melee strikes deal a small amount of damage to nearby enemies
+erthu_chrwa_thundering_gong_desc_override_magicwand;Incantation attacks deal a small amount of damage to nearby enemies
+erthu_chrwa_thundering_gong_name;Thundering Gong
+erthu_chrwa_tight_breeches_desc;Significantly increases all characteristics, but you can no longer store items
+erthu_chrwa_tight_breeches_name;Tight Breeches
+erthu_chrwa_tincture_of_beast_bile_desc;You probably shouldn't drink this...
+erthu_chrwa_tincture_of_beast_bile_name;Tincture of Beast Bile
+erthu_chrwa_tortured_heart_desc;Gain one protection but your stats are lowered as long as its active
+erthu_chrwa_tortured_heart_name;Tortured Heart
+erthu_chrwa_toy_piano_desc;Gain two keys after completing an area
+erthu_chrwa_toy_piano_name;Toy Piano
+erthu_chrwa_treasure_map_desc;Subsequent areas will contain more chests
+erthu_chrwa_treasure_map_name;Treasure Map
+erthu_chrwa_tress_of_silken_hair_desc;You have a chance to gain some protection after destroying an enemy
+erthu_chrwa_tress_of_silken_hair_name;Tress of Silken Hair
+erthu_chrwa_twice_baked_beans_desc;You leave a trail of poisonous gas behind when moving
+erthu_chrwa_twice_baked_beans_name;Twice-Baked Beans
+erthu_chrwa_two_headed_coin_desc;Slightly increases all characteristics
+erthu_chrwa_two_headed_coin_name;Two-Headed Coin
+erthu_chrwa_valued_customer_card_desc;Drastically increases merchant discount
+erthu_chrwa_valued_customer_card_name;Valued Customer Card
+erthu_chrwa_velvet_purse_desc;Gain one hundred coins
+erthu_chrwa_velvet_purse_name;Velvet Purse
+erthu_chrwa_vial_of_blue_blood_desc;When hit, your number of coins decrease instead of your health
+erthu_chrwa_vial_of_blue_blood_name;Vial of Blue Blood
+erthu_chrwa_vicious_barb_desc;Projectiles deal continuous damage while embedded in an enemy
+erthu_chrwa_vicious_barb_desc_override_magicwand;Your attacks have a chance to cause a bleeding effect on enemies
+erthu_chrwa_vicious_barb_name;Vicious Barb
+erthu_chrwa_warthog_underbelly_desc;Significantly increases weapon damage, but incoming damage is also increased
+erthu_chrwa_warthog_underbelly_name;Warthog Underbelly
+erthu_chrwa_weak_link_desc;Slightly increases evasion
+erthu_chrwa_weak_link_name;Weak Link
+erthu_chrwa_whipping_toy_desc;When hit by a boss the first time, you take no damage
+erthu_chrwa_whipping_toy_name;Whipping Toy
+erthu_chrwa_winged_shoe_desc;You float for four seconds when stepping over a pit
+erthu_chrwa_winged_shoe_name;Winged Shoe
+erthu_chrwa_winsome_heart_desc;Gain one protection and charm shopkeepers for lesser prices
+erthu_chrwa_winsome_heart_name;Winsome Heart
+erthu_chrwa_withered_sapling_desc;Pots may contain apples
+erthu_chrwa_withered_sapling_name;Withered Sapling
+erthu_chrwa_wolf_fang_desc;When hit, your next few weapon strikes do massively more damage
+erthu_chrwa_wolf_fang_name;Wolf Fang
+erthu_chrwa_wool_slippers_desc;Significantly increases evasion
+erthu_chrwa_wool_slippers_name;Wool Slippers
+first_time_food_hint;You can store objects in your wrist slots!
+first_time_hint_menu_prompt_b;Press B to open/close the menu
+first_time_hint_menu_prompt_menu;Press menu button to open/close the menu
+first_time_hint_menu_prompt_y;Press Y to open/close the menu
+first_time_hint_press_a_activate_item;Press A to activate an activatable item
+first_time_hint_press_grip_activate_item;Press Grip to activate an activatable item
+first_time_hint_press_trigger_for_knife;Press Trigger to equip and throw your knife
+first_time_hint_sword_prompt_b;Press B to equip/unequip your sword
+first_time_hint_sword_prompt_menu;Press menu button to equip/unequip your sword
+first_time_hint_sword_prompt_y;Press Y to equip/unequip your sword
+first_time_setup_lower_desc;For more advanced settings and configuration<br>(seated mode, snap/smooth turning, modding) open<br>the settings menu from the main menu!
+first_time_setup_move_with;Move with
+first_time_setup_title;First time setup
+first_time_setup_upper_desc;Welcome to Ancient Dungeon, to get started, please set up your controls.
+forgotten_library;The Forgotten Library
+forgotten_library_text;I write these words surrounded by lost knowledge, endless books on endless shelves. For the first time, I wonder if mankind has forgotten more than we have retained.<br><br>I cannot carry more than one or two books with me. Hopefully, my map will lead a greater contingent here in the future.<br><br>Concerning the map...it has grown complex, and...contradictory? It is impossible, but it seems this place is moving.<br><br>
+forgotten_library_title;Forgotten Library
+gambler_delve_desc;The Gambler reveled in risk. The dungeon will gift its boons at random, for weal or woe.
+gambler_delve_name;The Gambler's Delve
+gambler_delve_random_items_applied;Random items applied:
+game_over_difficulty_multiplier;Difficulty Multiplier:
+game_over_end_run;End Run
+game_over_enemies_killed;Creatures slain:
+game_over_floors_completed;Floors completed:
+game_over_insight;Insight
+game_over_money_spent;Money spent:
+game_over_new_items;New Relics found:
+game_over_new_milestones;New Milestones reached:
+game_over_new_pages;New Journal Pages Collected:
+game_over_text_part1;Adventurer #
+game_over_text_part2;has perished while exploring the Ancient Dungeon. Though the death is lamentable, I am happy to report that my observation of the delve has provided the following additions to our current body of knowledge:
+game_over_text_part2_no_unlocks;has perished while exploring The Ancient Dungeon...
+game_over_text_part3;As always, I will ensure all information is promptly and accurately recorded. In terms of The Grand Library’s standard numerical abstraction, I have gained
+game_over_text_part3_no_unlocks;...but who cares? The delve supplied no new information whatsoever. My only hope is that the desiccated corpse inspires greater caution in those who follow. I do hate my time being wasted.
+game_over_text_part4;Insight, which will surely aid my research efforts.
+game_over_title;You are dead!
+arena_ended_title;Arena Ended
+give_up;Give Up
+gloaming_mines;The Gloaming Mines
+gloaming_mines_text;This place does move. My map is a tangle and I am lost. I continue...forward? Backward? In any case, I have kept moving. I have abandoned all my aspirations now and only hope to survive.<br><br>My surroundings have gone from hallways with sconces to caverns only lit by glowing crystals. <br><br>Worst of all, I am not alone. I have heard beasts in the shadows. Hopefully a sturdy walking stick and some stern words are enough to fend them off.<br>
+gloaming_mines_title;Gloaming Mines
+hard_mode;Hard Mode
+highlight_active_item;Active Relic
+highlight_lore_item;Lore Relic
+highlight_shared_item;Shared Relic
+highlight_vanishes_on_death;Vanishes on death
+homebase_title_the_ancient_dungeon;The Ancient Dungeon
+how_to_play_activate_item;Activate Relic
+how_to_play_equip_knife;Equip Throwing Knife / Interact
+how_to_play_equip_sword;Equip / Unequip Sword
+how_to_play_grab_objects;Grab Objects
+how_to_play_quick_inv;<color="yellow">Look</color> at your <color="yellow">left hand</color> (like a watch) to see the minimap and the quick inventory (hp, cash, keys, etc.)
+how_to_play_slots;You have two <color="yellow">inventory slots</color>. One on each wrist.
+how_to_play_stats;Stats / Settings
+how_to_play_title;How to play
+how_to_play_walk;Walk
+hue;Hue
+hunter_delve_desc;The Hunter demanded only the greatest of prey. The dungeon will accommodate.
+hunter_delve_name;The Hunter's Delve
+index;Index
+infested_dungeon;The Infested Dungeon
+infested_dungeon_text;I believe my current location was an actual dungeon at some point. Iron-barred cells are common, and I have crushed a good number of bones under my clumsy feet.<br><br>Uncommon, however, is the red fungus that grows here. I have collected a sample to study, which, perhaps fortunately, has caused a cinnamon smell to pervade my pack.<br><br>The map is progressing, as best it can. This place resembles nothing so much as a mass of knotted rope.<br><br>
+infested_dungeon_title;Infested Dungeon
+insight_board_locked;The Insight Board is locked until all players have unlocked it
+insight_category_boss;Boss
+insight_category_items;Items
+insight_category_misc;Misc
+insight_category_secret;Secret
+insight_category_shop;Shop
+insight_category_world;World
+insight_shop_buy_for;Buy for
+insight_shop_cant_afford;Can't afford
+insight_shop_title;Current Research
+introduction_screen_message;The legend of the Ancient Dungeon has been told for eons, an ever-shifting labyrinth of corridors and caverns, brimming with wealth.<br><br><br>Acolytes of the Grand Library have located a way inside, and have put forth a call throughout the land bidding every brave soul to enter and--perhaps--escape, with all the fame and fortune such a triumph entails.<br><br><br>You heard that call, and now, after a long journey, have arrived...
+item_Apple_desc;Regenerates one heart
+item_Apple_name;Apple
+item_Beet_desc;Regenerates half a heart and increases critical hit chance until hit
+item_Beet_name;Beet
+item_Cheese_desc;Regenerates one heart, increases melee damage and evasion until hit
+item_Cheese_name;Cheese
+item_Chicken_desc;Regenerates two hearts and increases all stats until hit
+item_Chicken_name;Chicken
+item_compendium_locked;Locked
+item_compendium_not_found;You have not found this item yet
+item_compendium_title;Compendium
+item_Dragonfruit_desc;Regenerates 3 hearts
+item_Dragonfruit_name;Dragonfruit
+item_erthu_chiming_orb_desc;Throw to summon a few helpful wisps
+item_erthu_chiming_orb_name;Chiming Orb
+item_erthu_contracting_orb_desc;Throw to temporarily reduce the size of anything nearby.
+item_erthu_contracting_orb_name;Contracting Orb
+item_erthu_demanding_orb_desc;Throw at your feet to deal one additional damage until the next time you get hit.
+item_erthu_demanding_orb_name;Demanding Orb
+item_erthu_flickering_orb_desc;Throw at your feet to temporarily increase your movement speed.
+item_erthu_flickering_orb_name;Flickering Orb
+item_erthu_glittering_orb_desc;Throw to transform nearby enemies or objects in gold.
+item_erthu_glittering_orb_name;Glittering Orb
+item_erthu_lethal_orb_desc;Throw at your feet to increase damage and crit chance, but your movement speed is lowered.
+item_erthu_lethal_orb_name;Lethal Orb
+item_sebwr_black_friday_orb_name;Merchant's Recall
+item_sebwr_black_friday_orb_desc;Throw to teleport back to the area merchant (disappears when entering boss rooms)
+item_erthu_noxious_orb_desc;Throw to release a cloud of poisonous gas.
+item_erthu_noxious_orb_name;Noxious Orb
+item_erthu_orb_of_obliteration_desc;Throw to cause an explosion that deals massive damage
+item_erthu_orb_of_obliteration_name;Orb of Obliteration
+item_erthu_potion_of_focus_desc;Throw at your feet to temporarily slow the world around you.
+item_erthu_potion_of_focus_name;Orb of Focus
+item_erthu_potion_of_fury_desc;Throw at your feet to temporarily deal increased damage.
+item_erthu_potion_of_fury_name;Orb of Fury
+item_erthu_potion_of_protection_desc;Throw at your feet to temporarily become invincible.
+item_erthu_potion_of_protection_name;Orb of Protection
+item_erthu_unstable_orb_desc;Throw to cause an explosion that deals huge amounts of damage.
+item_erthu_unstable_orb_name;Unstable Orb
+item_journal_page_desc;???
+item_journal_page_name;Journal Page
+item_journal_page_picked_up_desc;You already collected this journal page, but other players might still want to pick it up.
+item_journal_page_picked_up_name;Journal Page
+item_Lock_desc;Trigger to unlock
+item_Lock_name;Lock
+item_Orange_desc;Regenerates half a heart. Regenerates half a heart two additional times after clearing some rooms.
+item_Orange_name;Orange
+item_Pear_desc;Regenerates one heart and increases damage until hit
+item_Pear_name;Pear
+item_Plum_desc;Regenerates one heart and increases evasion until hit
+item_Plum_name;Plum
+item_Potato_desc;Regenerates half a heart
+item_Potato_name;Potato
+item_Revive Player_desc;Costs you half your health! (Need at least 1 full heart)
+item_Revive Player_name;Revive Player
+item_Save and Quit_desc;Need a break? Save your run and quit to main menu to continue later...
+item_Save and Quit_name;Save and Quit
+item_sebwr_magma_orb_desc;Throw to fill the ground with magma that sets enemies on fire.
+item_sebwr_magma_orb_name;Magma Orb
+item_Steak_desc;Regenerates 2 hearts
+item_Steak_name;Steak
+item_Yam_desc;Grants half a protection heart
+item_Yam_name;Yam
+join_discord;Join Discord
+journal_collection_title;Journal Pages
+keys;Keys
+left;Left
+left_controller;Left Controller
+left_hand;Left Hand
+locked;Locked
+lore_id_10_text;I took big risks, mad risks, to hear others tell it. I lived like a king one day, a pauper the next. I loved it, every day could be anything, and I knew every poor bit of luck would just make the next taste of good fortune that much sweeter. So, when I heard that the Ancient Dungeon had popped up again, you bet I set out for it that very day. I was off to risk it all, and I could barely hold my bones still for all the excitement of it.
+lore_id_10_title;Page 2
+lore_id_11_text;I lay the fault of my death at the feet of the Grand Library. After being ousted and vilified for my research by the masters, I was forced to live as an exile in the woods, living on small game and whatever pittance desperate villagers would trade for my “sacrilegious” potions. Such sacrilege was hard work, though, and so it was that, as I scraped moss from a random cavern’s wall, daylight suddenly disappeared with a great cracking noise and I was lost in darkness.
+lore_id_11_title;Page 1
+lore_id_12_text;Now, I was no great warrior, but I took big swings. I tore through every hall I wandered into, giving as good as I got (and I got quite a bit). The journey was rough, but I was nearly mad with excitement! Gold coins lay about like rubbish, and magical treasures let me do things I couldn't believe. The further I went, the more likely my escape seemed. Big mistake, that. I should have known better. The universe is a fickle sort of thing.
+lore_id_12_title;Page 3
+lore_id_13_text;I got bigger and stronger and very good at fighting. The new people are my first friends. They give me food and presents. I have a big ax and a bear hat and a little dress. My friends say it is not a dress it is a killed. I did not kill it though because it is just a dress. I did kill the bad people and my friends like me more now. But once I killed one of my friends by mistake and I think that my friends did not like that.
+lore_id_13_title;Page 2
+lore_id_1_text;I had it all figured out a long time ago. Other folks, they make big plans, shore up piles of wealth, all thinking it gives them some sort of control on their life.<br>Then those plans fall through, that wealth is snatched away, and they're no better than they started.<br>Not me, though, I saw the world for what it was: a big pile of random chance. No point in fighting it, better to roll right along with it, and enjoy the ride.<br>
+lore_id_1_title;Page 1
+lore_id_2001_text;The “sciences”, as defined by my peers and forebears, have been triumphed. The great discoveries have been made, so I turn my attention to those spheres of knowledge yet untouched.<br><br>“Magic”, to use the broadest term.<br><br>My work will surely be spurned by most scholars. Even so, I intend that it will not--cannot--be ignored.
+lore_id_2001_title;Page 1
+lore_id_2002_text;I feel like an unlucky miner, forever bashing at rock without uncovering the slightest gleam of metal.<br><br>For every bit of sense that I uncover a bucket of nonsense follows. It seems that, much like science, the practitioners of magic are composed of a few brilliant minds whose genius is drowned in a sea of foolish utterances. <br><br>No matter. I will collect all the bits until the truth is plain.
+lore_id_2002_title;Page 2
+lore_id_2003_text;Day the Seventy-Second of the Third Season, Year 1265<br><br>I have done it. I have worked magic.<br><br>A small thing, perhaps: A single tongue of flame, perched on the end of my fingertip, seemingly “summoned” from nothing.<br><br>I spoke no arcane words, nor drew complex symbols. Simply a singular will, a belief that it could happen...and suddenly it did.
+lore_id_2003_title;Page 3
+lore_id_2004_text;Day the Third of the Fourth Season, Year 1265<br><br>The strength of my ability seems to vary both according to my “focus” and, oddly, my location.<br><br>Concerning focus, I have observed my flame grows and shrinks in accordance with my vigor. Early morning and midday is ideal.<br><br>Concerning location...I am uncertain. The third larder seems best, producing a flame both large and bright, but I see no reason why. Further study is needed.
+lore_id_2004_title;Page 4
+lore_id_2005_text;Day the Thirty-First of the First Season, Year 1266<br><br>A breakthrough! Today, after emerging from the larder, a kitchen servant asked, “You lookin’ for the ghost?”<br><br>It seems the servants have long regarded a section of the basement--directly below the larder--to be haunted. Upon investigating the previously unknown location, I found my power accentuated further.<br><br>I am relocating my studies to this area. Greatness awaits.
+lore_id_2005_title;Page 5
+lore_id_2006_text;Day the Fourth of the Second Season, Year 1266<br><br>After a great deal of effort on my (and my servants’) part, the entirety of my laboratory has been moved to the basement. I have arranged my instruments around the particular point in space where my flame is most brilliant.<br><br>And, truly, that is all. While I have bent my mind towards the working of other magics, a simple flame continues to be the height of my achievement. Certainly I lack some key insight.<br><br>Experimentation has yielded its fruit. Back to the books!
+lore_id_2006_title;Page 6
+lore_id_2007_text;Day the Eleventh of the Third Season, Year 1266<br><br>How true it is that we all play the fool, both the mighty and the meager!<br><br>The rites and rituals I dismissed as theatrical nonsense early in my studies have proven to be key to working greater magics. In my new location, the movements and incantations specified have wrought a grand variety of wonders.<br><br>It occurs to me now that my records and references must be secured. My discoveries could readily be put to ill use.
+lore_id_2007_title;Page 7
+lore_id_2008_text;Day the Fifteenth of the First Season, Year 1267<br><br>Nearly two seasons since my last entry, but it seems like a lifetime.<br><br>My mind has been set afire by all that I’ve learned. Where once I mimicked the activity of greater men, I now stand among them, able to create entirely new magics.<br><br>Sadly, I believe I have reached the limits of this particular locus. As such, I am preparing for travel. If “unnatural” phenomena are an earmark of such loci, there are many places to explore.
+lore_id_2008_title;Page 8
+lore_id_2009_text;Day the Fifth of the Third Season, Year 1268<br><br>Finally! Months of grueling travel with naught to show for it save blisters, but finally success!<br><br>We have not yet arrived at the locus, but I can feel it, like a dry sponge in a sudden rain. I am aglow with the power of this place!<br><br>This evening, once my retinue is asleep, I will conjure a flame to confirm my feelings. This part of the world is rather simple, the locals’ reaction to my abilities could be…unpleasant. 
+lore_id_2009_title;Page 9
+lore_id_2010_text;You made a mistake, rich man. Poor don’t mean stupid, no more than rich means smart.<br><br>I been all over, seen things, magic things, here and there. Been lookin’ for more, and up you pop, stinkin’ of magic and skulking about for more, just like me.<br><br>You can do it, though, I saw, when you thought no one was about. Gonna get your secrets, rich man, no matter what I gotta do.
+lore_id_2010_title;Page 1
+lore_id_2011_text;Day the Twenty-Fifth of the Third Season, Year 1268<br><br>It is more than I hoped and worse than I feared.<br><br>The power of this place…is terrifying. I fear that if I were to conjure a breeze, a mountain might topple.<br><br>As such, I will only study this phenomenon. Nothing is apparent to the eyes, but I sense this locus with something keener, some ineffable organ I did not realize I possessed.<br><br>I wonder, do all great men fear their discoveries as I do?
+lore_id_2011_title;Page 10
+lore_id_2012_text;Just stares and scribbles, all day, for weeks now.<br><br>At nothing! Stares at nothing! Maybe the rich man is a crazy man…or maybe he sees something I don’t.<br><br>I want that book he scribbles in, all full and bursting with magics, I bet. But he keeps it close, sleeps with it under all his silks and velvets.<br><br>Need him to trust me, and know just the way. Play a fool, play a dolt, ‘til he thinks I’m simple as a babe, not like to understand a thing.
+lore_id_2012_title;Page 2
+lore_id_2013_text;Day the Forty-Fourth of the Fourth Season, Year 1268<br><br>I will be returning to my home soon, with great haste.<br><br>The things I have learned…should not be discovered in such a painfully exposed setting. Though it is more than an impossibility that my company of guides and servants could grasp the merest shred of this place’s truth, the rumors they could spread may bring unwanted attention.<br><br>I will leave in two days with only a single servant. The man is older than I would prefer, but simple-minded enough that I need not fear his observations.
+lore_id_2013_title;Page 11
+lore_id_2014_text;Dead of night, rich man’s fast asleep, I probably shouldn’t write nothin’ (dumb folks can’t write), but I gotta gloat to somebody, even just myself.<br><br>I should be on a stage, sure as anything! Never thought I was much of an actor, but guess I was wrong. I scrape and gawp and look an absolute fool to anyone looking, for certain!<br><br>The rich man still keeps his secrets close, but I can see him loosening, like drawstrings on a cheap money pouch. Just a matter of time, now…
+lore_id_2014_title;Page 3
+lore_id_2015_text;Day the Second of the Second Season, Year 1269<br><br>Finally, home.<br><br>My first order of business on returning was to further secure my laboratory. The door has been replaced with a sturdy oak slab covered with iron locks. I make an awful clanging with the keys each morning, but the necessity is clear.<br><br>With some hesitation, I will attempt to apply what I learned abroad here. Caution will be paramount, but this locus must be strengthened if I am to progress my studies safely.
+lore_id_2015_title;Page 12
+lore_id_2016_text;Thick stone and hearthfire in every corner! Can’t hardly believe it, how rich one man can be and how poor another.<br><br>No bother, though, here I am, cozy as can be. Rich man thinks me an idiot, lets only me down to his lab to serve him his tea and biscuits. Thinks I can’t sus a bit of what I see, but I do. Been writing down every scrap I can recall, see if I can’t make some magic myself!
+lore_id_2016_title;Page 4
+lore_id_2017_text;Day the Thirty-Ninth of the Second Season, Year 1269<br><br>I have finally managed to strengthen my locus, though “strengthen” may not be the best word for it. “Widen” would be better, as I now believe it to be a “tear” in our reality, with some other reality beyond it.<br><br>Slowly, carefully, I have been plucking at its edges, widening it by almost imperceptible increments. I do perceive it, though, like a faint ray of sunlight on my skin. My power has grown.<br><br>A bit more, then I will stop. The process is intoxicating, but I shall not drink to satisfaction.
+lore_id_2017_title;Page 13
+lore_id_20_text;I entered the Ancient Dungeon with great optimism and sense of purpose. I had worked hard among my peers, but had never found a chance by which to truly distinguish myself. Then it came: by great luck, another entrance into the Ancient Dungeon had been found within my lifetime. Immediately, I resolved to enter, and, for the first time in human history, map its interior. My life seemed a small thing to risk when weighed against such a tremendous endeavor.
+lore_id_20_title;Page 1
+lore_id_21_text;My friends took me on a long trip to visit a cave. They said the bad people were inside the cave and said for me to go in. I went in the cave and it was dark and I got lost but I found the bad things and I killed the things. I killed for a long time but there were a lot of bad things. I got very tired and the bad things were hurting me. The bad things hurt me for a long time but then I got sleepy and I went to sleep.
+lore_id_21_title;Page 3
+lore_id_22_text;So, as you might imagine, when I heard about all the amazing beasties in the Ancient Dungeon…well, I couldn't resist. I made my way there with every instrument and tool I could handle. I planned to study each and every one of them and, if any were nice and soft and non-violent, hug the absolute bejeezus out of it!  The young blacksmith outside the dungeon said my plan was suicide, but that's “people” for you, always trying to put each other down.
+lore_id_22_title;Page 2
+lore_id_23_text;The debasement of our lowly flesh is the greatest display of a man’s devotion to the divine. Though others of my order suck at their teeth when contemplating the practice, I embraced it whole-heartedly from an early age. Thrice daily I rent the flesh of my back, until the pain of it faded to nearly nothing, entirely overshadowed by the divine joy the practice imparted to me. My devotion did not go unnoticed, and I ascended the ranks of the Divine Order quickly.
+lore_id_23_title;Page 1
+lore_id_24_text;On my very first day inside, I met Clarence. He was ADORABLE! He followed me around like a gooey little green puppy and he LOVED TO CUDDLE! Every time I turned around he had glommed onto me somewhere, making happy little burbling sounds. Sure, Clarence put some holes in my outfit, but he was just having fun. We made a great team! We spent days and days gathering notes about his friends, watching them, dissecting them…it's really sad it all ended so suddenly.
+lore_id_24_title;Page 3
+lore_id_2_text;I am not smart, but I am big. I was big when I was little and I was bigger when I was not little. Town people like me when I pick things up for them, but they don't like me when I am hungry. Town people made me leave and I was very hungry. I was alone for a long time but I found new people. The new people have swords and armor and they like to fight bad people. They gave me a sword and let me fight the bad people. I am big and strong and good at fighting.
+lore_id_2_title;Page 1
+lore_id_30_text;After scrabbling fruitlessly at the earthen walls for a few moments, I decided to explore further into the cave. Led only by touch, I felt earth turn to worked stone, and realized my situation with jarring clarity: I had been ensnared by the Ancient Dungeon. Despite its long absence, the dungeon’s existence was uncontested by the historians of the Grand Library. There was only one great labyrinth known to be churning below the earth, and I was in it.
+lore_id_30_title;Page 2
+lore_id_31_text;Immediately, problems presented themselves. Not only did the dungeon contain numerous hostile creatures (all of whom I ran from rather than engage), but much worse, the corridors I mapped seemed to wrap and twist among each other like a mass of knotted rope. The further I went, the more inexplicable my map became. After weeks of desperate survival, I became certain of a terrifying truth: the dungeon was moving.
+lore_id_31_title;Page 2
+lore_id_32_text;It was no surprise when I was selected to eradicate the unholy taint of the Ancient Dungeon. My military prowess was only narrowly surpassed by my faith. I was a formidable foe in battle. As I ventured within that heretical tomb of evil, I felt the thick bed of scars upon my back loosen and warm, as though the divines themselves had draped a blessed shroud upon me. My success was assured, I thought, and so I fought through the halls with zealous abandon.
+lore_id_32_title;Page 2
+lore_id_33_text;I did not despair: I exulted. Despite all their machinations, the Grand Library could not keep me from great works! With some difficulty, I began gathering up every sprout, fungus, and weed I came across. All were steeped in the magic of the dungeon, and the potions I brewed with them were wondrous! Imbued beyond mortal boundaries, every danger of my new home was inconsequential. I walked the corridors of the Ancient Dungeon without fear, like a lord in his castle. In reality, I was an interloper, and my intrusion did not go unnoticed.
+lore_id_33_title;Page 3
+lore_id_34_text;I died. I…I don't understand, how could I be dead? I'm the greatest hunter that ever lived! What happened? It's all fuzzy in my head. Okay, okay…just think. I remember digging back into the dungeon…talking to a few idiots who must have lucked their way out…then I got in…and…nothing. Just dead. Wait…WAIT! Did one of those idiots sneak up on me and kill me? That must be it. It's the only way any of this makes sense…
+lore_id_34_title;Page 1
+lore_id_35_text;I can't believe it, betrayed by a fellow adventurer. I mean, I understand the envy, it must be tough to meet someone so clearly your superior. But murder? Wow, just WOW. Now I suppose I'll need to haunt them or something before I can “move on”, unfinished business and such. Not sure what they look like, though…I guess I'll just look for an adventurer who looks “murdery”. Haunt them for a while, make them see the error of their ways, then off to…somewhere cool, I hope.
+lore_id_35_title;Page 2
+lore_id_36_text;Dead sucks. Haunting sucks. It's not working. I've spooked at least a dozen murdery-looking adventurer types, and no beautiful, otherworldly light from above to walk into yet. And I…I don't know, it's getting harder to think lately. Makes me tired. If I don't figure this out soon, I'm afraid I'll end up like the other mindless ghosts around here, just floating about and beating on whoever comes along. Hah! I'll be fine. The Hunter always wins!
+lore_id_36_title;Page 3
+lore_id_37_text;An honest man, in taking stock of what is absolutely necessary for a good life, will find little. Enough food not to suffer hunger, enough shelter not to suffer the elements, enough water not to suffer thirst. The excesses most men indulge in weaken them, bind them up with a thousand “needs” that are truly “wants”. They toil endlessly after them, somehow blind to their utter uselessness. I have long tried to free men from such chains, but they only see a “madman” crying out in the town square. 
+lore_id_37_title;Page 1
+lore_id_38_text;From then on I abandoned my academic pursuits and focused solely on survival. The risk I had taken would be worth less than nothing if I could not, at least, escape with my life. Though my map was useless, I hoped that the notes I had written concerning the many dangers of the Ancient Dungeon would have some value. I continued with great caution, moving slowly and carefully. Many more weeks passed, but I survived, creeping ever downward, until I finally met…the end.
+lore_id_38_title;Page 3
+lore_id_39_text;I suffered a thousand-thousand wounds as I progressed, but such ravages were small things to me. I fought and bled for hours, then days, and with each passing moment grew more assured of the divines’ blessing upon me. My fervor was such that I did not notice the gradually slowing of my pace, the softening of my blows…or my increasingly shallow breaths. Even so, I continued to slay until my very last moment, eventually collapsing into a motionless heap, a terrible ghoul freshly skewered by my sword.
+lore_id_39_title;Page 3
+lore_id_3_text;I've always loved animals. They're just SO MUCH BETTER than people! Some are cute and soft, others ugly and hard, but all of them are AMAZING! I've always spent as much time with animals as I could, sometimes just observing, but also hugging, and smooching, and cuddling them. Even better, when they die (old and happy, of course), you can take them apart and learn SO MUCH! I'll never forget my first dissection, it was magical.
+lore_id_3_title;Page 1
+lore_id_40_text;True, my appearance is meager, but the peace within me is grand. I could not convince others of the power of my way with mere words, so I sought to put it on display. One day I announced to all that I would venture into the Ancient Dungeon and emerge alive from it. The simple folk there laughed at me and mocked the frailty of my body, certain that I would be slaughtered. I bid them follow me, witness my entrance and, subsequently, my exit. Few followed, but it would have been enough.
+lore_id_40_title;Page 2
+lore_id_41_text;A life of noble restraint had hardened my constitution and will to iron. The perils presented within the dungeon were nearly inconsequential to me, and I passed them by with a wisdom borne of a lengthy life of deprivation. Amazingly, I came upon food and water with greater ease than ever before, and I ate and drank so steadily I wondered if it were in excess. The creatures within regarded me mostly without interest, and those that pursued I easily evaded. My success seemed assured.
+lore_id_41_title;Page 3
+luminous_depths;The Luminous Depths
+luminous_depths_text;These caves…unbelievable. The air itself shimmers with magic and gigantic glowing crystals pierce the massive stone chambers from floor to ceiling. Small waterfalls cascade into pools of crystal clear water and scatter the soft light . A strange breed of ribbon-like grass sways in unseen winds. It is all terribly strange and beautiful.<br><br>Tch, tch…my words do no justice to this place, but I am happy to be here. I think I will finally sleep well tonight, perhaps even dream.<br><br>Maybe I’ll dream of home.<br><br>
+luminous_depths_title;Luminous Depths
+magicwand_combo_name;Tome & Wand
+magicwand_primary_crit_stat_name;Spell Crit
+magicwand_primary_damage_stat_name;Spell Dmg
+magicwand_primary_name;Wand
+magicwand_secondary_crit_stat_name;Incantation Crit
+magicwand_secondary_damage_stat_name;Incantation Dmg
+magicwand_secondary_name;Tome
+main_menu;Main Menu
+master_volume;Master Volume
+mods;Mods
+movement_type;Movement Type
+mp_change_appearance;Change Look
+mp_choose_color;Choose Color
+multiplayer_allow_mods;Allow Mods
+multiplayer_allow_monke;Allow Monke Movement
+multiplayer_bad_word_filter;Room name not allowed! Please choose a different room name.
+multiplayer_connected_adventurers;Connected Adventurers
+multiplayer_connecting_please_wait;Connecting to room. Please wait...
+multiplayer_contacting_failed_try_again;Could not connect. Retrying...
+multiplayer_contacting_oculus_servers;Contacting Oculus servers...
+multiplayer_contacting_steam_servers;Contacting Steam servers...
+multiplayer_could_not_connect_public_rooms;Could not connect to public lobbies list...
+multiplayer_create_a_lobby;Create a lobby
+multiplayer_create_a_lobby_desc;Create a private or public lobby that your friends or random people can join
+multiplayer_error_connecting_to_room;Connection error! Unable to join room.
+multiplayer_error_photon_cloud_timeout;Disconnect from room because of a timeout (maybe your connection was interrupted?). Reloading game in a few seconds...
+multiplayer_finishrun_wait_for_host;Host needs to enter in order to finish run...
+multiplayer_game_browser;Game Browser
+multiplayer_join_a_lobby;Join a lobby
+multiplayer_join_via_code;Join via code
+multiplayer_join_via_code_desc;Join a private game via a room code
+multiplayer_leave_session;Exit Multiplayer Session
+multiplayer_lobby_settings;Lobby Settings
+multiplayer_lobby_type;Lobby Type
+multiplayer_max_players;Max Players
+multiplayer_mods_not_allowed;The room you want to connect to does not allow mods. Please disable all mods in your settings menu or choose a lobby that accepts mods.
+multiplayer_newer_version_please_update;Unable to join the room: Your game version is outdated. Please update to the latest version to continue playing.
+multiplayer_ngplus_wait_for_host;Host needs to enter in order to start NG+
+multiplayer_no_public_rooms;No public rooms found...
+multiplayer_oculus_no_auth_values;Cannot join room: authentication failed on the Oculus servers! Please relaunch the game and try again.
+multiplayer_only_host_can_start;Only the host can start runs!
+multiplayer_player_joined_game;<id> joined the game!
+multiplayer_player_revive_hint;Press Trigger to revive!
+multiplayer_press_to_mark_as_ready;Press to mark as ready!
+multiplayer_private_lobby;Private Lobby
+multiplayer_private_lobby_description;Enter a minimum 4 letter room code to connect
+multiplayer_public_games;Public Games
+multiplayer_public_lobby;Public Lobby
+multiplayer_room_code_already_exists;The room code you entered is already in use. Please try another one!
+multiplayer_select_region;Select Server Region
+multiplayer_select_region_description;Be sure that your friends use the same region when joining!
+multiplayer_shutdown_error;Cannot join room: General Error. Please make sure you are connected to the internet!
+multiplayer_shutdown_reason_connection_timeout;Connection timed out. Please check your internet connection.
+multiplayer_shutdown_reason_game_closed;Room unavailable: players have already entered the dungeon.
+multiplayer_shutdown_reason_game_is_full;Room full: maximum player limit reached.
+multiplayer_start_run_make_sure_players_in_homebase;Make sure all players are in the home base and not in the main or settings menu!
+multiplayer_start_run_only_one_player;You need at least 2 players in the room to start a run!
+multiplayer_steam_not_initialized;Cannot join room: authentication failed on the Steam servers! Please relaunch the game and try again.
+multiplayer_timeout_while_connecting;Cannot join room: Timeout while trying to connect. Please try again...
+multiplayer_wait_for_players_to_get_ready;Waiting for other players to get ready...
+multiplayer_warning_mods_enabled;Warning!<br>Mods are turned on! You can join lobbies that allow mods, but not ones that don’t. Turn off mods in the settings menu to see and join all public lobbies.
+multiplayer_you_are_connected;Connected to room:
+music_volume;Music Volume
+new_game_plus_prefix;New Game
+noxious_sewers;The Noxious Sewers
+noxious_sewers_text;To state the obvious: this place stinks.<br><br>I admit, I gave no thought to the more…mechanical needs of the dungeon’s inhabitants, past or present. Whatever force incepted this place, we need not wonder about its pragmatism.<br><br>I believe I have made some peace with the likelihood that I will die here. The bare, base nature of my current surroundings demands humility. I will continue my work, as best I can, and be satisfied.<br><br>(I do hope to find another region of the dungeon soon, however, the smell really is awful.)<br><br>
+noxious_sewers_title;Noxious Sewers
+off;Off
+on;On
+other;Other
+overgrown_gatehouse;The Overgrown Gatehouse
+overgrown_gatehouse_text;It is the end of my first day within the Ancient Dungeon, and I am wildly optimistic.<br><br>Despite my surroundings being a bit less than “dungeon-like”, they are untouched. In a world less and less unknown to mankind, it is truly thrilling to be within such a mystery.<br><br>I have begun my map. With perseverance, it is sure to be the greatest achievement of my life.<br><br>
+overgrown_gatehouse_title;Overgrown Gatehouse
+penitent_delve_desc;The Penitent humbled himself through constant flagellation. You will be hardy, but take constant damage every few seconds.
+penitent_delve_name;The Penitent's Delve
+poi_arcane_rift_bestiary_name;Arcane Rift
+poi_clarence_bestiary_name;Clarence
+popup_unlocked_hard_mode;Unlocked Hard difficulty at run selection!
+presets;Presets
+progress_another_interesting_point_desc;Points of interest have a higher chance of appearing.
+progress_another_interesting_point_name;Another Interesting Point
+progress_arcane_momentum_desc;Special attacks need less hits to charge up
+progress_arcane_momentum_name;Arcane Momentum
+progress_a_point_of_interest_desc;Areas featuring unique elements may be found
+progress_a_point_of_interest_name;A Point of Interest
+progress_a_walk_in_the_park_desc;Movement speed increases when no enemies are present
+progress_a_walk_in_the_park_name;A Walk in the Park
+progress_business_senseless_desc;<i>Merchants offer an additional item for sale when a purchase is made.</i>
+progress_business_senseless_name;Business Sense(less)
+progress_carto_graphix_desc;Chests, Relics and sacrifice statues you encounter are indicated on the map
+progress_carto_graphix_name;Carto GraphiX
+progress_cascading_power_desc;Basic stat boost upgrades have a small chance of being applied twice when picked up.
+progress_cascading_power_name;Cascading Power
+progress_caustic_alloy_desc;Your dagger's damage is increased when striking aberrant or boss enemies.
+progress_caustic_alloy_name;Caustic Alloy
+progress_devilish_deals_desc;<i>Some rooms contain mysterious statues with which a bargain can be made.</i>
+progress_devilish_deals_name;Devilish Deals
+progress_dilemmatic_pedestals_desc;<i>Pedestals may offer two upgrade items to choose from.</i>
+progress_dilemmatic_pedestals_name;Dilemmatic Pedestals
+progress_double_edged_desc;Your knife deals its full damage when returning to your hand.
+progress_double_edged_name;Double Edged
+progress_errant_entrances_desc;<i>Alternate Floors are unlocked.</i>
+progress_errant_entrances_name;Errant Entrances
+progress_fold_of_abberation_desc;Your weapon damage is increased when striking aberrant enemies.
+progress_fold_of_abberation_name;Fold of Aberration
+progress_fold_of_obliteration_desc;Your weapon damage is increased when striking boss enemies.
+progress_fold_of_obliteration_name;Fold of Obliteration
+progress_forceful_flourish_desc;Striking enemies with your charged wand will knock them back a great distance
+progress_forceful_flourish_name;Forceful Flourish
+progress_gourmet_selections_desc;A greater variety of food items can be found while exploring
+progress_gourmet_selections_name;Gourmet Selections
+progress_hidden_passages_desc;<i>Secret areas may be found in walls, ceilings, or floors.</i>
+progress_hidden_passages_name;Hidden Passages
+progress_honeypot_desc;<i>Interspersed among the mundane ceramics, golden pots brimming with coin can rarely be found.</i>
+progress_honeypot_name;Precious Pottery
+progress_introspecd_desc;The stat screen will show you more detailed information on your stats
+progress_introspecd_name;Introspec'd
+progress_i_have_a_system_desc;<i>Your chance of winning at The Merchant's Slot Machine is increased.</i>
+progress_i_have_a_system_name;I have a system
+progress_last_meal_desc;Stored food is automatically consumed when lethal damage could occur
+progress_last_meal_name;Last Meal
+progress_lethal_precision_desc;Start with 5% increased crit chance on all weapons
+progress_lethal_precision_name;Lethal Precision
+progress_magnetic_aesthetic_desc;Coins and keys are collected from a greater distance
+progress_magnetic_aesthetic_name;Magnetic Aesthetic
+progress_mana_mastery_desc;Mana replenishes more quickly
+progress_mana_mastery_name;Mana Mastery
+progress_marvellous_marks_desc;<i>Having a mark equipped grants an additional effect unique to the mark.</i>
+progress_marvellous_marks_name;Marvellous Marks
+progress_perfect_balance_desc;When you defeat an enemy, you gain a short period of increased weapon damage.
+progress_perfect_balance_name;Perfect Balance
+progress_phantom_step_desc;Start with 20% evasion until you take damage. Resets on every new area entered.
+progress_phantom_step_name;Phantom Step
+progress_pressurized_capsule_desc;The size of the explosion caused by your crossbow bolt's strike is increased.
+progress_pressurized_capsule_name;Pressurized Capsule
+progress_reactive_polarization_desc;When you defeat an enemy with the dagger, your crossbow bolt is retrieved immediately.
+progress_reactive_polarization_name;Reactive Polarization
+progress_relic_hunter_desc;Undiscovered relics have a greater chance of appearing
+progress_relic_hunter_name;Relic Hunter
+progress_ritual_of_blood_desc;The tomes sweep attack deals an additional bleeding effect
+progress_ritual_of_blood_name;Ritual of Blood
+progress_shiney_slimey_desc;<i>Golden Slimes may appear throughout all areas of The Ancient Dungeon.</i>
+progress_shiney_slimey_name;Shiney Slimey
+progress_smorgasbord_desc;<i>Merchants will always offer some food for adventurers that arrive with low health.</i>
+progress_smorgasbord_name;Smorgasbord
+progress_super_size_me_desc;<i>Food has a chance of getting upgraded to the next tier.</i>
+progress_super_size_me_name;Super Size Me
+progress_swift_stride_desc;Start with 10% increased movement speed.
+progress_swift_stride_name;Swift Stride
+progress_tensioning_winch_desc;The longer the crossbow is loaded, the more damage it will do (up to 30% more damage after 12 seconds)
+progress_tensioning_winch_name;Tensioning Winch
+progress_tethered_bolt_desc;You can retrieve your crossbow's bolt more quickly and from a greater distance.
+progress_tethered_bolt_name;Tethered Bolt
+progress_the_boss_stash_desc;<i>You receive a potato after defeating boss enemies.</i>
+progress_the_boss_stash_name;The Boss's Stash
+progress_weighted_pommel_desc;Your sword strikes deal a small amount of damage to all nearby enemies.
+progress_weighted_pommel_name;Weighted Pommel
+progress_willful_hearts_desc;Items offerring different types of protection may appear within The Ancient Dungeon
+progress_willful_hearts_name;Willful Hearts
+progress_words_of_vengeance_desc;Your spell damage is increased when striking aberrant or boss enemies
+progress_words_of_vengeance_name;Words of Vengeance
+quest;Quest
+quit;Quit
+rate_us_on_the_store;Rate us!
+recommended;Recommended
+reconnect;Reconnect
+region_asia;Asia
+region_eu;Europe
+region_sa;South America
+region_us;North America
+rift;Rift
+rift_quest;Rift / Quest
+right;Right
+right_controller;Right Controller
+right_hand;Right Hand
+run_preparation_continue_saved_run;Continue saved run
+run_preparation_customized_run_hint;Note: Custom runs will not count towards your achievements and lore pages
+run_preparation_custom_run;Customized Run
+run_preparation_difficulty_hard;Hard
+run_preparation_difficulty_hard_desc;-Bosses are harder<br>-Bosses deal double damage<br>-More aberrant enemies spawn<br>-More enemies spawn<br>-Food and money are more scarce
+run_preparation_difficulty_normal;Normal
+run_preparation_enter_custom_dungeon;Enter the custom Dungeon
+run_preparation_enter_seed_hint;Enter a custom seed (leave empty for random)
+run_preparation_enter_seed_placeholder;Enter Seed
+run_preparation_enter_the_dungeon;Enter the Dungeon
+run_preparation_hard_mode;Hard Mode
+run_preparation_ready;Ready?
+run_preparation_select_difficulty;Select Difficulty
+run_preparation_select_weapon;Select Weapon
+run_preparation_title;Run Preparation
+run_stats_adventurers_entered;Adventurers entered:
+run_stats_adventurers_returned;Adventurers that returned:
+run_stats_title;Information
+sacrifice_statue_hint_coins;Press Trigger on both controllers to sacrifice 15 coins
+sacrifice_statue_hint_health;Press Trigger on both controllers to sacrifice 1 health
+sacrifice_statue_hint_hpcontainers;Press Trigger on both controllers to sacrifice 1 heart container
+sacrifice_statue_hint_keys;Press Trigger on both controllers to sacrifice 1 key
+saturation;Sat
+save_and_quit;Save and Quit
+sealed_apocrypha;The Sealed Apocrypha
+sebwr_banana_peel_desc;Significantly increases evasion, but decreases your number of hearts
+sebwr_banana_peel_name;Banana Peel
+sebwr_burlap_blindfold_desc;Drastically increases all your characteristics, but relics will no longer be identifiable in advance
+sebwr_burlap_blindfold_name;Burlap Blindfold
+sebwr_cursed_knife_desc;The next enemy you kill will have a drastically reduced amount of HP from that point on. Resets on every floor.
+sebwr_cursed_knife_name;Cursed Knife
+sebwr_five_fingers_desc;All shop items are free, but you can only buy 1 item.
+sebwr_five_fingers_name;Five Fingers
+sebwr_ginseng_root_desc;Gain 5 Insight
+sebwr_ginseng_root_name;Ginseng Root
+sebwr_hagglers_mark_desc;Once charged, use to teleport to the area merchant
+sebwr_hagglers_mark_name;Haggler's Mark
+sebwr_miasmic_toadskin_desc;Poison a random enemy when entering a room for the first time
+sebwr_miasmic_toadskin_name;Miasmic Toadskin
+sebwr_possessed_anvil_desc;Significantly increases the size of your melee weapon and slightly increases melee damage
+sebwr_possessed_anvil_name;Possessed Anvil
+sebwr_sacred_fetish_desc;Enemies have a small chance of being banished upon appearance
+sebwr_sacred_fetish_name;Sacred Fetish
+sebwr_shining_catalyst_desc;Orbs are converted to coins on pickup
+sebwr_shining_catalyst_name;Shining Catalyst
+sebwr_slimy_i_o_u_desc;Food in rest areas are replaced with relics
+sebwr_slimy_i_o_u_name;Slimy I.O.U.
+sebwr_spoiled_brat_desc;Merchant items are free, but each item taken slightly decreases all characteristics
+sebwr_spoiled_brat_name;Spoiled Brat
+sebwr_sticky_finger_desc;Shop items are free, but only one item can be obtained.
+sebwr_sticky_finger_name;Sticky Finger
+sebwr_ticking_treat_desc;Food explodes when striking enemies
+sebwr_ticking_treat_name;Ticking Treat
+sebwr_wasp_nest_desc;The next five times you are hit, critical chance increases
+sebwr_wasp_nest_name;Wasp Nest
+sebwr_worm_shovel_desc;Powerful relics will appear more commonly throughout the dungeon
+sebwr_worm_shovel_name;Worm Shovel
+sebwr_worn_shovel_desc;Powerful relics will appear more commonly throughout the dungeon
+sebwr_worn_shovel_name;Worn Shovel
+seed;Seed
+seer_ui_enter_memories;Enter Memories
+seer_ui_title;Memories
+select_preset_message_1;This seems to be your first time playing, please select a controller preset down below.
+select_preset_message_2;Warning when selecting other: The game should still work as expected, but there can be differences in hand offset and mappings as each controller is different.
+settings;Settings
+settings_accessibility_play_mode;Play Mode
+settings_accessibility_seated;Seated
+settings_accessibility_seated_offset;Seated Mode Height Offset
+settings_accessibility_standing;Standing
+settings_accessibility_title;Accessibility
+settings_advanced_bhaptics;BHaptics Vest Support
+settings_advanced_controller_vibrations;Controller Vibrations
+settings_advanced_fast_respawn;Fast Respawn Mode
+settings_advanced_heartbeat_sound;Low HP Heartbeat Sound
+settings_advanced_high_performance_mode;High Performance Mode
+settings_advanced_ingame_console;Ingame Console
+settings_advanced_ingame_console_toggle;Toggle Console
+settings_advanced_ingame_console_warning;Enabling console disables unlocks and achievements for the current run!
+settings_advanced_speedrun_stats;Speedrun Stats on complete
+settings_advanced_title;Advanced Settings
+settings_combat_hold_angle;Hold Angle
+settings_combat_title;Combat Settings
+settings_combat_title_advanced;Advanced Combat Settings
+settings_combat_warning_not_in_run;Combat Settings can only be changed while in a run because they are weapon specific!<br><br>To change the settings, please start a run and return to the settings menu!
+settings_combat_warning_no_settings;Your current weapon combo does not have any settings for combat.
+settings_graphics_normal_resolution;Enabled
+settings_graphics_general_graphics_settings;General Graphics Settings
+settings_graphics_visible_body;Visible Body
+settings_graphics_shadow_effects;Shadow Effects
+settings_misc_connect_to_twitch;Connect to Twitch
+settings_misc_performance_mode_hint;Reduces Particles, Corpses and some visual effects
+settings_misc_spectator_cam;Spectator Cam
+settings_misc_spectator_cam_hint;Spectator cam takes up additional performance!
+settings_misc_title;Miscellaneous
+settings_mods_unsaved_changes;You have unsaved changes.<br>Click to apply these!
+settings_movement_advanced_settings;Advanced Movement Settings
+settings_movement_comfort_vignette;Comfort Vignette
+settings_movement_controller_direction;Controller Direction
+settings_movement_headset_direction;Headset Direction
+settings_movement_joystick_deadzone;Joystick Deadzone
+settings_movement_movement_direction;Movement Direction
+settings_movement_smooth_turn;Smooth Turn
+settings_movement_smooth_turn_speed;Smooth Turn Speed
+settings_movement_snap_turn;Snap Turn
+settings_movement_snap_turn_angle;Snap Turn Angle
+settings_movement_title;Movement Settings
+settings_movement_turning_mode;Turning Mode
+settings_preset_selection;Preset Selection
+settings_tab_combat;Combat
+settings_tab_graphics;Graphics
+settings_tab_misc;Misc
+settings_tab_movement;Movement
+settings_tab_soundmusic;Sound & Music
+sfx_volume;SFX Volume
+slot_machine_hit_me;Hit me!
+slot_machine_jackpot;Jackpot!<br><br>All stats up!
+smooth_movement;Smooth Movement
+speechbubble_descdendant_blacksmith_tome_choice1_option1;Of me?
+speechbubble_descdendant_blacksmith_tome_choice2_option1;Because the tome is bound in the flesh of your forebears?
+speechbubble_descdendant_blacksmith_tome_dialog1;I don't approve.
+speechbubble_descdendant_blacksmith_tome_dialog2;No, of this... wand and tome situation. Too magic-y. My great-great-great uncle was mad to construct them.
+speechbubble_descdendant_blacksmith_tome_dialog3;What? No! Why would you even think that?
+speechbubble_descdendant_blacksmith_tome_end;Sheesh... just get to your adventuring, adventurer. Use the tome if you like. Just be creepy elsewhere.
+speechbubble_descendant_blacksmith_augmentshop_choice1_option1;Yes?
+speechbubble_descendant_blacksmith_augmentshop_choice2_option1;Awesome!
+speechbubble_descendant_blacksmith_augmentshop_dialog1;Hold, please, and listen for a moment.
+speechbubble_descendant_blacksmith_augmentshop_dialog2;Another like you has blooded The Beast, and my weapons can be strengthened as a result. The blood can change and empower them
+speechbubble_descendant_blacksmith_augmentshop_end;Yes, it can be awe-inspiring. Since you are next to risk your life in that place, I feel it is only right that you decide how the blood is used. I’ve made some plans and posted them near the anvil, please take a look.
+speechbubble_descendant_blacksmith_crossbow_choice1_option1;It's fine, I guess?
+speechbubble_descendant_blacksmith_crossbow_choice2_option1;Actually, that knife-
+speechbubble_descendant_blacksmith_crossbow_choice3_option1;...
+speechbubble_descendant_blacksmith_crossbow_dialog1;How's your eyesight?
+speechbubble_descendant_blacksmith_crossbow_dialog2;Hmpf. Good enough. Take this crossbow and dagger.
+speechbubble_descendant_blacksmith_crossbow_dialog3;No! It's on... reserve. For... Timothy. The mighty. Timothy the Mighty.
+speechbubble_descendant_blacksmith_crossbow_end;Just take the crossbow, okay? Off you go, good luck, yada yada...
+speechbubble_descendant_blacksmith_introduction_choice1_option1;...hello?
+speechbubble_descendant_blacksmith_introduction_choice2_option1;I do.
+speechbubble_descendant_blacksmith_introduction_dialog1;...
+speechbubble_descendant_blacksmith_introduction_dialog2;Greetings. You intend to go inside, I take it?
+speechbubble_descendant_blacksmith_introduction_end;So be it. I would warn you away, but I know there is no use in it. Instead, I bid you only to take care. The Ancient Dungeon is a dangerous place.
+speechbubble_descendant_blacksmith_rand_1;No, I don’t just stand here all the time! I just do all my forgework while you lot are in the dungeon, lest I be pestered with inane questions!
+speechbubble_descendant_blacksmith_rand_2;The hammer is the first thing my family forged, untold generations ago. It is made of the same stuff as our weapons, but heated differently to make it harder and more durable.
+speechbubble_descendant_blacksmith_rand_3;My grandfather’s grandfather completed the knife, and what a shock it gave him when he threw it! Nearly took off his ear when it came soaring back!
+speechbubble_descendant_blacksmith_rand_4;As long as that dungeon has been around, so has my family. We hold it as a sacred duty to forge weapons to aid in its destruction.
+speechbubble_descendant_blacksmith_rand_5;The weapons my family forges always make their way back to us, regardless of the wielder’s fate. We don’t really understand it, but we certainly appreciate it.
+speechbubble_descendant_blacksmith_rand_6;That acolyte fellow keeps pestering me with “hello” and “good morning” and such. To my mind, silence is better left unbroken...especially in the morning.
+speechbubble_descendant_blacksmith_rand_7;The Ancient Dungeon churns beneath the earth constantly, moving about bit by bit. The last entrance found was nearly 500 miles southeast of here!
+speechbubble_descendant_blacksmith_rand_8;Last night, I dreamed that the dungeon spoke to me. Odd, and more odd still, I swear it sounded familiar...
+speechbubble_descendant_blacksmith_rand_9;I've heard tell that there are “merchants” in the dungeon, selling oddments. Be wary, friend: anything that lives in that place surely means you harm.
+speechbubble_ghost_id_1000_cradle_talk;Good luck, adventurer…heck, great luck, the absolute best luck! Now... I'm off to take a nap.
+speechbubble_ghost_id_1000_fl_part1;Sure, I could have practiced with my sword a bit more before going in. Sure, I could have packed some food. But would that have really made any difference?
+speechbubble_ghost_id_1000_fl_part2;Maybe. Maybe not. That's the problem with luck, good or bad: you never know exactly how much you'll get and how much you'll need. Even years of preparation might be one day too little.
+speechbubble_ghost_id_1000_fl_part3;I'm glad we got to talk, it helped me get a few things straight in my head. I had a bit of doubt in the back of my mind, and now it's gone. I feel lighter.
+speechbubble_ghost_id_1000_og_part1;So, I came across a big suit of armor lumbering around a room with a big sword. It was pretty slow, so I figured I could just, you know, “duck and weave” my way to destroying the thing.
+speechbubble_ghost_id_1000_og_part2;I ducked. I wove. I hit it. It just refused to...die? Disanimate? Anyway, I was getting tired and it was too late to run away. My hits got weaker, my movements slower and...
+speechbubble_ghost_id_1000_og_part3;Okay, I'll say it: it lopped my noggin clean off, despite my hair being extremely well-coiffed. Just plain bad luck, that.
+speechbubble_ghost_id_1000_tc_part1;Wow, that was exhausting just to watch! You got a few lucky hits in, just enough, I'd wager. All the same, what a show
+speechbubble_ghost_id_1000_tc_part2;Sheesh, I really am tired! I can't remember ever being this tired. Lucky me, though, it looks like there's a nice, comfy bed over yonder, just past that light...
+speechbubble_ghost_id_1000_unlockRunPart;<i>The ghost is clearly smirking, and gives you a knowing wink as you consider it.</i>
+speechbubble_ghost_id_1001_cradleTalk;All the same, I thank you, adventurer. I can finally rest.
+speechbubble_ghost_id_1001_fl_part1;A gigantic yellow eye opened in front of me, glowing fiercely with an inward light that fully revealed its terrible form.
+speechbubble_ghost_id_1001_fl_part2;A massive, fleshy orb with a single eye and a toothy, gaping maw. Every bit of me wanted to run, but something more than just fear kept me still.
+speechbubble_ghost_id_1001_fl_part3;I could not scream when it bit into me. I could not weep for the loss of my simple, foolish life.
+speechbubble_ghost_id_1001_og_part1;After so much wandering, I was almost glad to find no way forward. I had lowered myself into a pit, a cliff on one side, an abyss on the other.
+speechbubble_ghost_id_1001_og_part2;It was quiet, and dark, and still. I sat on the ledge and stared into that blackness for minutes on end…
+speechbubble_ghost_id_1001_og_part3;…until something stared back.
+speechbubble_ghost_id_1001_tc_part1;I died for a chance to make a mark on the world, on history. Now, I wonder about that choice. What's wrong with a small life, well-lived and unnoticed?
+speechbubble_ghost_id_1001_tc_part2;I was not the first to die in such a manner, and I won't be the last. It is a strange kind of madness.
+speechbubble_ghost_id_1001_unlockRunPart;<i>The ghost looks at you with a sad smile on its face, and gives a little wave in greeting.</i>
+speechbubble_ghost_id_1010_cradleTalk;Ew. That gave me a shiver. I'm sure there are animals. Dogs, at the very least.
+speechbubble_ghost_id_1010_fl_part1;It's my fault, really. Animals do things based on instinct, not on rational thought. I just forget that sometimes, what with them being so cute and amazing.
+speechbubble_ghost_id_1010_fl_part2;I mean, if Clarence had thought about how much we meant to each other, I'm sure he wouldn't have eaten a hole into my skull.
+speechbubble_ghost_id_1010_fl_part3;At least I know he doesn't feel guilty. He probably just feels…full, I guess.
+speechbubble_ghost_id_1010_og_part1;I really think every negative interaction is the result of poor communication. I prided myself on understanding what animals tried to communicate, but…sometimes I was wrong.
+speechbubble_ghost_id_1010_og_part2;I was wrong with Clarence. Clarence wasn't cuddly, he was hungry. I went to sleep with him burbling in my hair one night…and, well, he burbled a hole right through it.
+speechbubble_ghost_id_1010_og_part3;On the bright side, at least Clarence isn't hungry anymore. I really hope he gets to grow up and be big and strong like all his friends.
+speechbubble_ghost_id_1010_tc_part1;Hey, thanks for hearing me out. In all honesty, I think I was feeling a bit…resentful towards Clarence. But he was just being him. Cute, amazing, and dangerously acidic.
+speechbubble_ghost_id_1010_tc_part2;Time for me to go. Do you think there are any animals on the other side? I hope so. If not, I suppose I could give “people” a chance.
+speechbubble_ghost_id_1010_unlockRunPart;<i>The ghost's eyes scan you up and down, drinking in every detail. You have a feeling it very much wants to poke you.</i>
+speechbubble_ghost_id_1011_cradleTalk;And remember! Be careful, no matter what. A bit of fear can be a good thing, keeps you safe.
+speechbubble_ghost_id_1011_fl_part1;I think I remember now. I didn't die from some murdery adventurer. I think it was a skeleton. A stupid skeleton.
+speechbubble_ghost_id_1011_fl_part2;I wasn't being careful. I figured nothing could touch me. Ya know…being The Hunter, and all. Kinda dumb of me.
+speechbubble_ghost_id_1011_fl_part3;Hey, you be careful, though! I wouldn't want what happened to me to happen to you.
+speechbubble_ghost_id_1011_og_part1;Oh…hey. Looks like one of you adventurers knocked my senses back into me. Weird…can't see how anyone could have beat me.
+speechbubble_ghost_id_1011_og_part2;Well, I suppose if they were, like, the GREATEST adventurer ever, they might have beat me. That must be it…right?
+speechbubble_ghost_id_1011_og_part3;Well…uh, good luck and all. Hope you survive. Being a ghost isn't much fun.
+speechbubble_ghost_id_1011_tc_part1;Wow, that was great. Really awesome. If I hadn't been so big-headed, maybe I could've done something like that.
+speechbubble_ghost_id_1011_tc_part2;I feel better now. Ready to move on. I can't thank you enough.
+speechbubble_ghost_id_1011_unlockRunPart;<i>A grimace is clearly evident on the ghost's vague features as it gazes at you, but the apparition remains still.</i>
+speechbubble_ghost_id_1020_cradleTalk;Good night friend.
+speechbubble_ghost_id_1020_fl_part1;I think that we are friends now. You are not mean to me like the town people so we are friends. Hello new friend.
+speechbubble_ghost_id_1020_fl_part2;I am happy. I was alone and very scared and very sad but now I have a new friend. You are strong like me but not big like me.
+speechbubble_ghost_id_1020_fl_part3;I promise I will not make a mistake and kill you.
+speechbubble_ghost_id_1020_og_part1;I am awake now but my friends are gone and I am lost. The bad things don't hurt me now but I am still scared because I am alone.
+speechbubble_ghost_id_1020_og_part2;Can you be my friend? I will not ask for food because I am not hungry anymore. I will try not to make a mistake.
+speechbubble_ghost_id_1020_og_part3;I am angry at me because I made a mistake and killed my friend.
+speechbubble_ghost_id_1020_tc_part1;That bad thing was big and scary but I was not scared because you are so strong. Thank you for killing the scary bad thing.
+speechbubble_ghost_id_1020_tc_part2;I am sleepy again. I can see a warm spot now and I think it will be a nice place to sleep so I am going to sleep.
+speechbubble_ghost_id_1020_unlockRunPart;<i>The ghost has stopped attacking you, but with obvious difficulty. It lunges toward you every now and then, but manages to restrain itself.</i>
+speechbubble_ghost_id_1021_cradleTalk;Whatever your aims in this terrible place are, I wish you the best, adventurer
+speechbubble_ghost_id_1021_fl_part1;Perhaps the Grand Library had cause to discourage and condemn my alchemical pursuits. Had previous members been similarly doomed by their creations?
+speechbubble_ghost_id_1021_fl_part2;In all, it is better that I died within the Ancient Dungeon than above. May my work be forever buried and undisturbed.
+speechbubble_ghost_id_1021_fl_part3;You, though, if you happen to come across one of my dreadful concoctions, take heed of my warning and let it be.
+speechbubble_ghost_id_1021_og_part1;The idea began as a passing thought, but ended as a nearly unshakable impulse. I desperately wanted–and did not want–to venture deeper, to…meet something.
+speechbubble_ghost_id_1021_og_part2;My mind was being assaulted, and I defended myself as best I could. I brewed potions to fortify my mind, gulping them down without regard to possible dangers.
+speechbubble_ghost_id_1021_og_part3;I was…successful? My magical “cocktail” quelled the dreadful impulse, but it also drove me quite insane. Owing to that, I cannot recall the exact circumstances of my death.
+speechbubble_ghost_id_1021_tc_part1;As has ever been said, men concern themselves too often with what they can do rather than what they should do. May you be spared such folly.
+speechbubble_ghost_id_1021_tc_part2;Now then–my heart is lightened and my mind is clear. I will proceed as befits the dead.
+speechbubble_ghost_id_1021_unlockRunPart;<i>The ghost's face is an expression of barely-contained glee, save for when a violent twitch occasionally warps it into a terrifying rictus.</i>
+speechbubble_ghost_id_1030_cradleTalk;Adventurer, I thank you for your company and conversation. Divines’ blessings be upon you.
+speechbubble_ghost_id_1030_fl_part1;Yes…yes…it is pride. Imagine, to think one’s self so grand as to merit a glimpse at the divine plan!
+speechbubble_ghost_id_1030_fl_part2;I must repent, but with my flesh now gone, I am unpracticed in an appropriate ritual. Pain will purge me, but what sort?
+speechbubble_ghost_id_1030_fl_part3;I think…I will meditate on my folly. Hone the edge of that memory until the shame of it cuts as deeply as any blade.
+speechbubble_ghost_id_1030_og_part1;I cannot understand the divine purpose of my death, but even now I acknowledge it as true and right.
+speechbubble_ghost_id_1030_og_part2;The grand design is imperceptible to mortals, but even so, I do wish that I could contemplate that portion concerning my passing.
+speechbubble_ghost_id_1030_og_part3;Is that why I remain? Have I kindled the flame of sin within myself by harboring such a desire?
+speechbubble_ghost_id_1030_tc_part1;Ah, pain! Ah, delight! Ah, redemption! Thank you, divines! I am enlightened, ascended!
+speechbubble_ghost_id_1030_tc_part2;My soul has been humbled just as my body once was, and I can feel the other side now open to me. I will depart.
+speechbubble_ghost_id_1030_unlockRunPart;<i>The ghost looks at you square in the eye for a few moments before giving a reluctant nod of acknowledgement.</i>
+speechbubble_ghost_id_1031_cradleTalk;You have listened to me, though, and, perhaps, learned from me. That is enough, and enough is plenty.
+speechbubble_ghost_id_1031_fl_part1;Why do I wander still? Why am I not at rest? Long have I pondered that question, adventurer.
+speechbubble_ghost_id_1031_fl_part2;Ah…no matter…it is an unexpected delight to converse a bit. I did not realize until now that I missed it.
+speechbubble_ghost_id_1031_fl_part3;Apologies, I ramble. I am…unused to considering another’s concerns…
+speechbubble_ghost_id_1031_og_part1;I lived within the Ancient Dungeon for nearly thirty-two years before dying peacefully in my sleep. I stayed there, not because I was lost, but because I was happy.
+speechbubble_ghost_id_1031_og_part2;The solitude, the simplicity of my existence with the dungeon delighted me beyond words, and I could not bring myself to leave.
+speechbubble_ghost_id_1031_og_part3;True, I would be viewed as a failure by the world without…but such concerns are also excess.
+speechbubble_ghost_id_1031_tc_part1;Hello adventurer, and thank you. With your help, I have discovered what has kept me from a true rest.
+speechbubble_ghost_id_1031_tc_part2;It was guilt. I abandoned humanity when I chose to reside here, and so denied it the opportunity to learn my ways. I am ashamed.
+speechbubble_ghost_id_1031_unlockRunPart;<i>The ghost silently considers you, expressionless, but you somehow feel as though you are being judged.</i>
+speechbubble_ngplus_adventurer_mp_other_end;...
+speechbubble_ngplus_adventurer_wins_0_choice1_option1;I...guess so...
+speechbubble_ngplus_adventurer_wins_0_choice2_option1;So...you’re...
+speechbubble_ngplus_adventurer_wins_0_choice3_option1; Do you...need help?
+speechbubble_ngplus_adventurer_wins_0_end;Help, yes, competition, no. I appreciate the offer, but there’s only glory enough for one in there: me! Off you go!
+speechbubble_ngplus_adventurer_wins_0_part1;Hah! That thing booted you out here too, right?
+speechbubble_ngplus_adventurer_wins_0_part2;A handy trick, that. Anything seems too nasty, just poof it away. Won’t stop me, though. I’ve never failed a hunt, and won’t start now.
+speechbubble_ngplus_adventurer_wins_0_part3;Bashing my way back inside! Figure it’ll be quicker than finding my way back to the entrance, considering I have no idea where we are.
+speechbubble_ngplus_adventurer_wins_1_choice1_option1;...
+speechbubble_ngplus_adventurer_wins_1_end;I'm almost there! That thing will die with my sword through its eye, or I’ll die trying!
+speechbubble_ngplus_adventurer_wins_1_part1; Sorry *huff* can’t talk *puff*! Believe it or not, bashing a hole in a mountain is difficult work!
+speechbubble_press_trigger;Press Trigger to continue...
+speechbubble_seer_random_1;The cries of the restless spirits here often keep me awake at night. No rhythm to them.
+speechbubble_seer_random_2;Sometimes I resent them, but my moments of suffering are nothing compared to the centuries they have endured.
+speechbubble_seer_seer_intro_choice1_option1;About what?
+speechbubble_seer_seer_intro_choice2_option1;How?
+speechbubble_seer_seer_intro_dialog1;Peace and life's sweetness to you, brave one. May we speak for a moment?
+speechbubble_seer_seer_intro_dialog2;About this place and the souls sealed within, the souls of adventurers long dead, tormented and trapped for ages.
+speechbubble_seer_seer_intro_dialog3;Now that The Ancient Dungeon has been re-discovered, however, they can be freed and put to rest, with your help.
+speechbubble_seer_seer_intro_dialog4;Destroy their remains that lie within, then return here so that I may channel their spirit.
+speechbubble_seer_seer_intro_introduction_end;The spirit will guide you through the dungeon, retracing their final steps. If you can succeed where they failed, each may finally rest.
+speechbubble_studious_acolyte_hardmode_choice1_option1;...yes?
+speechbubble_studious_acolyte_hardmode_choice2_option1;I love adventure!
+speechbubble_studious_acolyte_hardmode_dialog1;You! You look...TOUGH! Too tough, in fact. The dungeon will be nothing more than a stroll for you! Care to...make it interesting?
+speechbubble_studious_acolyte_hardmode_dialog2;YES! Now listen: I’ve discovered a certain scent that is irresistible to creatures within the dungeon. If you were to give yourself a bit of a spritz...well, a true “adventure” would be guaranteed!
+speechbubble_studious_acolyte_hardmode_end;Of course you do! Well, get to it then! I left a bottle near the entrance, spritz with WILD ABANDON!
+speechbubble_studious_acolyte_insightshop_choice1_option1;Uh...sure...
+speechbubble_studious_acolyte_insightshop_choice2_option1;Gross.
+speechbubble_studious_acolyte_insightshop_choice3_option1;...sure…
+speechbubble_studious_acolyte_insightshop_dialog1;You! You look decisive. If you could spare a moment, I would be grateful.
+speechbubble_studious_acolyte_insightshop_dialog2;Wonderful, the problem is this: due to the mountain of data provided by other adventurers like yourself, I find myself afflicted with *ahem* ANALYSIS PARALYSIS!
+speechbubble_studious_acolyte_insightshop_dialog3;Don’t be vulgar. And LISTEN! I cannot decide which research to search, every option is equally delectable! Please, PLEASE, choose for me!
+speechbubble_studious_acolyte_insightshop_end;THANK YOU! Just select a topic on the board to my right, quick as you can. I am BRIMMING with academic energies that must be spent!
+speechbubble_studious_acolyte_introduction_choice1_option1;Very.
+speechbubble_studious_acolyte_introduction_choice2_option1;You’re going to watch?
+speechbubble_studious_acolyte_introduction_dialog1;Greetings! You are the very first adventurer to arrive! Excited?
+speechbubble_studious_acolyte_introduction_dialog2;As am I, excited indeed to observe your attempt...er..success, I mean.
+speechbubble_studious_acolyte_introduction_end;Yes, using the scrying glass here. I will be making copious notes in order to advance the research of The Grand Library. BUT ENOUGH! Less talk, more questionable life choices! In you go! Good luck!
+speechbubble_studious_acolyte_rand_0;Little known fact: it was I who discovered this entrance. All it took was perseverance, research, and getting very, very lost on a hike.
+speechbubble_studious_acolyte_rand_1;The Grand Library can be a harsh master, but it’s worth it! After only four years of grueling labor and a decade of exorbitant payments, I’m a shoe-in for middle management!
+speechbubble_studious_acolyte_rand_2;Hey, if you find yourself in mortal danger with no way out down there, please consider throwing yourself into a pit. No one has done that yet.
+speechbubble_studious_acolyte_rand_3;Which do you like better, “slime” or “jelly”? I’m leaning towards “jelly”, but that may be because it’s time for my snack.
+speechbubble_studious_acolyte_rand_4;You adventurers always seem to arrive at night, why is that? Skin condition? Night owl? Vampire?! (You know you have to tell me if you’re a vampire, right?)
+speechbubble_studious_acolyte_rand_5;I think I may finally be winning the blacksmith over! This morning--and I swear this is true--he grunted at me when I said “good morning”! Progress!
+speechbubble_studious_acolyte_rand_6;Don’t look at me with those “come-hither” eyes! I am wed to Lady Knowledge and shall never be unfaithful! Now shoo!
+speechbubble_studious_acolyte_rand_7;I asked the blacksmith to critique a bit of my work and he called my handwriting “chicken-scratch”! CHICKEN SCRATCH! We’re no longer on speaking terms.
+speechbubble_studious_acolyte_rand_8;Don’t tell anyone, but sometimes I switch between blue ink and black ink! The Grand Library would be scandalized, but what’s life without a bit of excitement?
+speechbubble_studious_acolyte_rand_9;I can’t keep this secret anymore, the guilt is too much! I draw horizontal rules on my parchment before writing in ink, and then erase the pencil! My impeccable penmanship is a lie! A dirty, dirty lie!
+speechbubble_talk;Talk
+speechbubble_the_craven_rand_0;It was a long, cold journey for me, best I warm myself by the fire a bit before going in.
+speechbubble_the_craven_rand_1;I woke up this morning with a terrible headache. Once it passes, I’ll head inside directly.
+speechbubble_the_craven_rand_2;Ooof, I think I ate something bad. I suppose I’ll have to delay my adventure until it settles.
+speechbubble_the_craven_rand_3;Did you see that black cat? It’s an ill omen. Perhaps not the best day for adventuring...
+speechbubble_the_craven_rand_4;I slept terribly last night! Alertness is key when willfully endangering one’s life, so no Ancient Dungeon for me today.
+speechbubble_the_craven_rand_5;Today is my birthday, so I’m celebrating by not entering the Ancient Dungeon.
+speechbubble_the_craven_rand_6;I stepped in a puddle and now I have soggy socks. A person just can’t adventure in soggy socks. Hopefully they’ll be dry by tomorrow.
+speechbubble_the_craven_rand_7;I was going to go inside today, but a dog just ate my homework. I know the two seem unrelated, but trust me, they’re not.
+speechbubble_the_craven_rand_8;Ouch! Paper cuts are the absolute worst! Right on my sword-thumb too! I hope it heals quickly so I can finally go inside.. *unconvincing sigh*
+speechbubble_the_craven_rand_9;No no, you first, I insist! I may not be the greatest adventurer around, but I pride myself on my manners. I’m happy to wait for my turn.
+speedrun_timer_final_time;Final Time:
+start_new_run;Play<br>Singleplayer
+start_new_run_mp;Play<br>Multiplayer
+start_new_run_mp_disabled;(Leave the current run to join a multiplayer session)
+statistics_title;Player Statistics
+statistics_ui_no_data_yet;No data yet...
+stats_average_run_length;Average Run Length
+stats_cash_collected;Coins Collected
+stats_cash_spend_in_shop;Coins Spent In Shop
+stats_chests_opened;Chests Opened
+stats_combat_and_enemy_engagement;Combat
+stats_consumables;Consumables
+stats_damage_from_falling_pits;Damage From Falling Into Pits
+stats_deaths_and_environmental_hazards;Deaths And Hazards
+stats_enemies_of_forgotten_library_killed;Enemies Of Forgotten Library Killed
+stats_enemies_of_gloaming_mines_killed;Enemies Of Gloaming Mines Killed
+stats_enemies_of_infested_dungeon_killed;Enemies Of Infested Dungeon Killed
+stats_enemies_of_luminous_depths_killed;Enemies Of Luminous Depths Killed
+stats_enemies_of_noxious_sewer_killed;Enemies Of Noxious Sewers Killed
+stats_enemies_of_overgrown_gatehouse_killed;Enemies Of Overgrown Gatehouse Killed
+stats_enemies_of_sealed_apocrypha_killed;Enemies Of Sealed Apocrypha Killed
+stats_enemies_of_whispering_rooms_killed;Enemies Of Whispering Rooms Killed
+stats_exploration_and_environmental_interaction;Exploration
+stats_fastest_win;Fastest Victory
+stats_floors_completed;Floors Completed
+stats_hidden_passages_found;Hidden Passages Found
+stats_highest_hard_mode_win;Highest Hard Mode Win
+stats_highest_ng_plus_win;Highest NG Plus Win
+stats_hightest_player_damage_dealt;Highest Damage Dealt
+stats_locks_opened;Locks Opened
+stats_longest_run_length;Longest Run Length
+stats_miscellaneous;Miscellaneous
+stats_pots_destroyed;Pots Destroyed
+stats_runs_started_with_crossbow;Dungeons Explored With Crossbow
+stats_runs_started_with_sword;Dungeons Explored With Sword
+stats_runs_started_with_tome;Dungeons Explored With Tome
+stats_runs_won_with_crossbow;Dungeons Conquered With Crossbow
+stats_runs_won_with_sword;Dungeons Conquered With Sword
+stats_runs_won_with_tome;Dungeons Conquered With Tome
+stats_run_performance_metrics;Run Performance
+stats_sacrifice_statues_destroyed;Sacrifice Statues Destroyed
+stats_sacrifice_statues_used;Sacrifice Statues Used
+stats_shopkeepers_killed;Shopkeepers Killed
+stats_times_died_from_a_bat;Times Died From A Bat
+stats_times_died_from_a_boss;Times Died From A Boss
+stats_times_died_from_a_trap;Times Died From A Trap
+stats_times_from_the_beast;Times Died From The Beast
+stats_total_amount_of_aberrant_enemies_killed;Aberrant Enemies Killed
+stats_total_amount_of_crossbow_shot;Crossbow Bolts Shot
+stats_total_amount_of_gambles;Times Gambled
+stats_total_amount_of_jackpots;Jackpots Won
+stats_total_amount_of_knife_thrown;Knifes Thrown
+stats_total_amount_orbs_shot;Magic Orbs Shot
+stats_total_apples_consumed;Apples Consumed
+stats_total_beets_consumed;Beets Consumed
+stats_total_cheese_consumed;Cheese Consumed
+stats_total_chickens_consumed;Chickens Consumed
+stats_total_dragonfruits_consumed;Dragonfruits Consumed
+stats_total_enemies_burned;Enemies Killed With Fire
+stats_total_enemies_detonated;Enemies Killed With Explosions 
+stats_total_enemies_killed;Total Enemies Killed
+stats_total_enemies_poisoned;Enemies Killed With Poison
+stats_total_enemies_thrown_in_pit;Total Enemies Thrown Into Pits
+stats_total_food_consumed;Total Food Consumed
+stats_total_insight_gained;Total Insight Gained
+stats_total_lore_pages_missed;Total Lore Pages Missed
+stats_total_marks_triggered;Total Marks Triggered
+stats_total_oranges_consumed;Oranges Consumed
+stats_total_pears_consumed;Pears Consumed
+stats_total_pickups_collected;Total Pickups Collected
+stats_total_plums_consumed;Plums Consumed
+stats_total_potatoes_consumed;Potatoes Consumed
+stats_total_sealed_runs;Total Sealed Runs
+stats_total_steaks_consumed;Steaks Consumed
+stats_total_yam_consumed;Yam Consumed
+stats_weapon_and_loadout;Weapon Loadouts
+stats_total_arena_mode_enemy_kills;Total Arena Mode Enemy Kills
+stat_screen_critical_long;Crit Chance
+stat_screen_critical_short;Crit
+stat_screen_damage_long;Damage
+stat_screen_damage_short;Dmg
+stat_screen_discount;Discount
+stat_screen_discount_hint;Percentage discount in all shops. Shared by all players.
+stat_screen_evasion;Evasion
+stat_screen_evasion_hint;Chance of negating incoming damage
+stat_screen_group_stats;Group Stats
+stat_screen_heart_containers;Heart Containers
+stat_screen_luck;Luck
+stat_screen_luck_hint;Luck affects certain event probabilities. A higher luck triggers them more often. Shared by all players.
+stat_screen_ngplus1_hint;Take Double Damage<br>More aberrant enemies<br>Enemies have more health<br>Less items and food
+stat_screen_ngplus2_hint;Take Triple Damage<br>More aberrant enemies<br>Enemies have more health<br>Less items and food
+stat_screen_ngplus3_hint;Instant death on hit<br>More aberrant enemies<br>Enemies have more health<br>Less items and food
+stat_screen_personal_stats;Personal Stats
+stat_screen_primary_crit_hint;Chance of dealing a critical hit with your primary weapon
+stat_screen_primary_dmg_hint;How much damage you deal when hitting objects or enemies with your primary weapon
+stat_screen_protection_heart;Protection Heart
+stat_screen_secondary_crit_hint;Chance of dealing a critical hit with your secondary weapon
+stat_screen_secondary_dmg_hint;How much damage you deal when hitting objects or enemies with your secondary weapon
+stat_screen_stats;Stats
+stat_screen_title;Pickups and Infos
+stat_screen_upgrades_found;Upgrades Found
+swordknife_combo_name;Sword & Knife
+swordknife_primary_crit_stat_name;Sword Crit
+swordknife_primary_damage_stat_name;Sword Dmg
+swordknife_primary_name;Sword
+swordknife_secondary_crit_stat_name;Knife Crit
+swordknife_secondary_damage_stat_name;Knife Dmg
+swordknife_secondary_name;Knife
+teleport_movement;Teleport Movement
+thank_you_for_playing;Thank you for playing Ancient Dungeon!<br><br>If you have suggestions for the game, or want to provide feedback, feel free to join us in our discord.<br><br><br><br><br>Check the changelog by looking behind you.
+The Acolyte;The Acolyte
+The Alchemist;The Alchemist
+The Ascetic;The Ascetic
+The Berserker;The Berserker
+The Biologist;The Biologist
+The Blacksmith;The Blacksmith
+The Cartographer;The Cartographer
+The Craven;The Craven
+The Gambler;The Gambler
+The Hunter;The Hunter
+The Penitent;The Penitent
+The Scholar;The Scholar
+The Seer;The Seer
+The Vagabond;The Vagabond
+unarmed_combo_name;Unarmed
+unarmed_primary_name;Left
+unarmed_secondary_name;Right
+value;Val
+vive;Vive
+voice_chat_volume;Voice Chat Volume
+volume;Volume
+wait_for_host;Wait for host
+weapon_tutorial_crossbowdagger_text_1;Load your crossbow by pulling back the string with the <color=green>Trigger</color> button. Shoot by pressing <color=green>Trigger</color> with your main hand.
+weapon_tutorial_crossbowdagger_text_2;Equip your dagger by pressing and holding <color=green>Trigger</color> with your off hand.
+weapon_tutorial_crossbowdagger_text_3;Walking closer to your bolt will make it return faster!
+weapon_tutorial_magicwand_text_1;Press <color=green>Trigger</color> to collect an orb from your tome. Release <color=green>Trigger</color> in a swing motion to cast a magic missile.
+weapon_tutorial_magicwand_text_2;Swing your tome in front of you to release a big sweep attack that knocks back enemies.
+weapon_tutorial_magicwand_text_3;Press <color=green>Trigger</color> with your off hand to open your tome and use one of 3 incantations. Kill enemies to recharge them.
+weapon_tutorial_swordknife_text_1;Press <color=green>TODO</color> to equip your sword and <color=green>Trigger</color> to equip your knife.
+weapon_tutorial_swordknife_text_2;Throw your knife at objects and enemies by releasing <color=green>Trigger</color> at the right time (throwing motion).
+weapon_tutorial_swordknife_text_3;Swing your sword at enemies and objects to attack. Bigger swings deal more damage.
+weapon_tutorial_title;Quick Tutorial
+weapon_unlock_message_indungeon;You found a new weapon combo! Talk to the blacksmith!
+weapon_unlock_message_story_crossbow;Unlocked Crossbow & Dagger weapon combo!
+weapon_unlock_message_story_tome;Unlocked Tome & Wand weapon combo!
+whispering_rooms;The Whispering Rooms
+wmr;WMR
+won_run_area_sign_warning;DO NOT ENTER! YOU WILL DIE AND LOSE EVERYTHING! SUPER NOT WORTH IT! (unless you think your skills rival mine... which they don't)
+won_run_beast_blood;Beast Blood
+won_run_depart;Depart
+won_run_text_part2;has escaped The Ancient Dungeon! More importantly, my observation of the delve has yielded the following contributions to our current body of knowledge:
+won_run_text_part2_no_unlocks;lived. That’s it. That’s the best that can be said of this colossal waste of my time. Look:
+won_run_text_part3_no_unlocks;Yes, nothing. Believe me, I am as frustrated as you are. Hopefully they will brag about their “adventure” and some more useful idiot will make the journey here.
+won_run_title;You are victorious!
+worldmap_ui_title;The Ancient Dungeon
+arena_mode_ui_title;Arena Mode
+arena_mode_ui_records;Records
+settings_advanced_liv;LIV
+arena_preparation_ui_modifiers;Modifiers
+stat_screen_summon_liv_tablet;Summon Liv Tablet
+arena_preparation_ui_unlock_message;Complete more Bestiary entries to unlock...
+highlight_curse;Curse
+achievement_ui_unlocks_cosmetic;Unlocks Cosmetic:
+acolyte_unlocked_arena;Unlocked Arena Mode!
