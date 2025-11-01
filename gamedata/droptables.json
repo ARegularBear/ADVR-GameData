@@ -1,0 +1,1117 @@
+{
+    "dropTables": [
+        {
+            "dropTableName": "base_enemy",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 1,
+                    "maxAmount": 2,
+                    "weight": 350.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 250.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 35.0,
+                    "hardModeWeight": 32.5,
+                    "multiplayerWeight": 35.0
+                },
+                {
+                    "objectId": "item_food_potato",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 15.0,
+                    "hardModeWeight": 10.0,
+                    "multiplayerWeight": 20.0
+                },
+                {
+                    "objectId": "",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 610.0,
+                    "hardModeWeight": 720.0,
+                    "multiplayerWeight": 740.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "boss",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_boss",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "challenge_chest",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_all",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "champion_bg_slime_big",
+            "dropEntries": [
+                {
+                    "objectId": "enemy_id_slime",
+                    "minAmount": 2,
+                    "maxAmount": 2,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 0.0,
+                    "hardModeWeight": 0.0,
+                    "multiplayerWeight": 0.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "chest",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 3,
+                    "maxAmount": 7,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 660.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 500.0,
+                    "hardModeWeight": 500.0,
+                    "multiplayerWeight": 450.0
+                },
+                {
+                    "objectId": "item_food_potato",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 125.0,
+                    "hardModeWeight": 125.0,
+                    "multiplayerWeight": 200.0
+                },
+                {
+                    "objectId": "item_orb",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 330.0,
+                    "hardModeWeight": 150.0,
+                    "multiplayerWeight": 300.0
+                },
+                {
+                    "objectId": "item_upgrade_chest",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 80.0,
+                    "hardModeWeight": 80.0,
+                    "multiplayerWeight": 80.0
+                },
+                {
+                    "objectId": "item_upgrade_all:erthu_chrwa_black_box",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 0.0,
+                    "hardModeWeight": 0.0,
+                    "multiplayerWeight": 0.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "enemy_chest_mimic",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 5,
+                    "maxAmount": 8,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 0.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 0.0
+                },
+                {
+                    "objectId": "item_upgrade_chest",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 250.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 500.0
+                },
+                {
+                    "objectId": "item_upgrade_goldenChest",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 500.0,
+                    "hardModeWeight": 500.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "item_orb",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 100.0,
+                    "hardModeWeight": 100.0,
+                    "multiplayerWeight": 0.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 0.0,
+                    "hardModeWeight": 0.0,
+                    "multiplayerWeight": 400.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "enemy_ns_slime",
+            "dropEntries": [
+                {
+                    "objectId": "enemy_ns_slime_tiny",
+                    "minAmount": 3,
+                    "maxAmount": 3,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "enemy_og_slime_big",
+            "dropEntries": [
+                {
+                    "objectId": "enemy_og_slime",
+                    "minAmount": 2,
+                    "maxAmount": 2,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 0.0,
+                    "hardModeWeight": 0.0,
+                    "multiplayerWeight": 0.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "enemy_slime_golden",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 10,
+                    "maxAmount": 25,
+                    "weight": 800.0,
+                    "hardModeWeight": 800.0,
+                    "multiplayerWeight": 800.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 2,
+                    "weight": 125.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 125.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 125.0,
+                    "hardModeWeight": 50.0,
+                    "multiplayerWeight": 125.0
+                },
+                {
+                    "objectId": "item_upgrade_all",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "goldenChest",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 6,
+                    "maxAmount": 13,
+                    "weight": 150.0,
+                    "hardModeWeight": 150.0,
+                    "multiplayerWeight": 100.0
+                },
+                {
+                    "objectId": "item_orb",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 250.0,
+                    "hardModeWeight": 100.0,
+                    "multiplayerWeight": 250.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 250.0,
+                    "hardModeWeight": 150.0,
+                    "multiplayerWeight": 350.0
+                },
+                {
+                    "objectId": "item_food_steak",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 50.0,
+                    "hardModeWeight": 25.0,
+                    "multiplayerWeight": 75.0
+                },
+                {
+                    "objectId": "item_upgrade_all:erthu_chrwa_old_pouch",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 25.0,
+                    "hardModeWeight": 10.0,
+                    "multiplayerWeight": 15.0
+                },
+                {
+                    "objectId": "item_upgrade_goldenChest",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 500.0,
+                    "hardModeWeight": 500.0,
+                    "multiplayerWeight": 500.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "podest",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_podest",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "prop_crate",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 60.0,
+                    "hardModeWeight": 60.0,
+                    "multiplayerWeight": 60.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 70.0,
+                    "hardModeWeight": 70.0,
+                    "multiplayerWeight": 70.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 10.0,
+                    "hardModeWeight": 5.0,
+                    "multiplayerWeight": 12.0
+                },
+                {
+                    "objectId": "item_upgrade_all",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 5.0,
+                    "hardModeWeight": 5.0,
+                    "multiplayerWeight": 5.0
+                },
+                {
+                    "objectId": "",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 855.0,
+                    "hardModeWeight": 860.0,
+                    "multiplayerWeight": 853.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "prop_crate_small",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 70.0,
+                    "hardModeWeight": 70.0,
+                    "multiplayerWeight": 50.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 25.0,
+                    "hardModeWeight": 12.5,
+                    "multiplayerWeight": 25.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 12.5,
+                    "hardModeWeight": 10.0,
+                    "multiplayerWeight": 17.5
+                },
+                {
+                    "objectId": "item_upgrade_all",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 5.0,
+                    "hardModeWeight": 5.0,
+                    "multiplayerWeight": 5.0
+                },
+                {
+                    "objectId": "",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 887.5,
+                    "hardModeWeight": 902.5,
+                    "multiplayerWeight": 902.5
+                }
+            ]
+        },
+        {
+            "dropTableName": "prop_geode",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 300.0,
+                    "hardModeWeight": 200.0,
+                    "multiplayerWeight": 100.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 50.0,
+                    "hardModeWeight": 25.0,
+                    "multiplayerWeight": 25.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 12.5,
+                    "hardModeWeight": 10.0,
+                    "multiplayerWeight": 17.5
+                },
+                {
+                    "objectId": "item_upgrade_all",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 5.0,
+                    "hardModeWeight": 5.0,
+                    "multiplayerWeight": 5.0
+                },
+                {
+                    "objectId": "",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 632.5,
+                    "hardModeWeight": 760.0,
+                    "multiplayerWeight": 852.5
+                }
+            ]
+        },
+        {
+            "dropTableName": "prop_pot",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 80.0,
+                    "hardModeWeight": 75.0,
+                    "multiplayerWeight": 70.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 25.0,
+                    "hardModeWeight": 22.5,
+                    "multiplayerWeight": 25.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 12.0,
+                    "hardModeWeight": 6.0,
+                    "multiplayerWeight": 16.0
+                },
+                {
+                    "objectId": "",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 883.0,
+                    "hardModeWeight": 896.5,
+                    "multiplayerWeight": 889.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "prop_pot_golden",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 5,
+                    "maxAmount": 10,
+                    "weight": 500.0,
+                    "hardModeWeight": 500.0,
+                    "multiplayerWeight": 400.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 2,
+                    "weight": 125.0,
+                    "hardModeWeight": 150.0,
+                    "multiplayerWeight": 125.0
+                },
+                {
+                    "objectId": "item_food_dragonfruit",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 80.0,
+                    "hardModeWeight": 45.0,
+                    "multiplayerWeight": 90.0
+                },
+                {
+                    "objectId": "item_upgrade_all",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 250.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 330.0
+                },
+                {
+                    "objectId": "item_upgrade_all:erthu_chrwa_velvet_purse",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 30.0,
+                    "hardModeWeight": 20.0,
+                    "multiplayerWeight": 10.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_coins_1",
+            "dropEntries": [
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 2,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 400.0,
+                    "hardModeWeight": 400.0,
+                    "multiplayerWeight": 400.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_coins_10",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_coins_15",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_coins_2",
+            "dropEntries": [
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 2,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 100.0,
+                    "hardModeWeight": 100.0,
+                    "multiplayerWeight": 100.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_coins_3",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_coins_5",
+            "dropEntries": [
+                {
+                    "objectId": "item_key",
+                    "minAmount": 2,
+                    "maxAmount": 5,
+                    "weight": 250.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 250.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_coins_7",
+            "dropEntries": [
+                {
+                    "objectId": "item_food_dragonfruit",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 250.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 330.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_health_1",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 2,
+                    "maxAmount": 6,
+                    "weight": 600.0,
+                    "hardModeWeight": 600.0,
+                    "multiplayerWeight": 400.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 2,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 400.0,
+                    "hardModeWeight": 400.0,
+                    "multiplayerWeight": 400.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_health_10",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_health_15",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_health_2",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 2,
+                    "maxAmount": 6,
+                    "weight": 600.0,
+                    "hardModeWeight": 600.0,
+                    "multiplayerWeight": 400.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 1,
+                    "maxAmount": 2,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 100.0,
+                    "hardModeWeight": 100.0,
+                    "multiplayerWeight": 100.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_health_3",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_health_5",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 25,
+                    "maxAmount": 30,
+                    "weight": 250.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 250.0
+                },
+                {
+                    "objectId": "item_key",
+                    "minAmount": 2,
+                    "maxAmount": 5,
+                    "weight": 250.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 250.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_health_7",
+            "dropEntries": [
+                {
+                    "objectId": "item_food_dragonfruit",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 250.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 330.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_hpcontainers_1",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 700.0,
+                    "hardModeWeight": 700.0,
+                    "multiplayerWeight": 500.0
+                },
+                {
+                    "objectId": "item_food_dragonfruit",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 500.0,
+                    "hardModeWeight": 500.0,
+                    "multiplayerWeight": 700.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_hpcontainers_2",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 900.0,
+                    "hardModeWeight": 900.0,
+                    "multiplayerWeight": 900.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_hpcontainers_3",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 900.0,
+                    "hardModeWeight": 900.0,
+                    "multiplayerWeight": 900.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_hpcontainers_4",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 900.0,
+                    "hardModeWeight": 900.0,
+                    "multiplayerWeight": 900.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_hpcontainers_5",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 900.0,
+                    "hardModeWeight": 900.0,
+                    "multiplayerWeight": 900.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_keys_1",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 10,
+                    "maxAmount": 15,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 500.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 400.0,
+                    "hardModeWeight": 400.0,
+                    "multiplayerWeight": 400.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_keys_10",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_keys_15",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_keys_2",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 10,
+                    "maxAmount": 15,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 500.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 100.0,
+                    "hardModeWeight": 100.0,
+                    "multiplayerWeight": 100.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_keys_3",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_keys_5",
+            "dropEntries": [
+                {
+                    "objectId": "item_coin",
+                    "minAmount": 15,
+                    "maxAmount": 25,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "sacrifice_statue_keys_7",
+            "dropEntries": [
+                {
+                    "objectId": "item_food_dragonfruit",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 250.0,
+                    "hardModeWeight": 250.0,
+                    "multiplayerWeight": 250.0
+                },
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "secret",
+            "dropEntries": [
+                {
+                    "objectId": "item_upgrade_special",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        },
+        {
+            "dropTableName": "shop_default",
+            "dropEntries": [
+                {
+                    "objectId": "item_orb",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 80.0,
+                    "hardModeWeight": 80.0,
+                    "multiplayerWeight": 80.0
+                },
+                {
+                    "objectId": "item_food_apple",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 270.0,
+                    "hardModeWeight": 50.0,
+                    "multiplayerWeight": 300.0
+                },
+                {
+                    "objectId": "item_food_steak",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 110.0,
+                    "hardModeWeight": 25.0,
+                    "multiplayerWeight": 150.0
+                },
+                {
+                    "objectId": "item_ethereal_heart",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 100.0,
+                    "hardModeWeight": 75.0,
+                    "multiplayerWeight": 125.0
+                },
+                {
+                    "objectId": "item_upgrade_shop",
+                    "minAmount": 1,
+                    "maxAmount": 1,
+                    "weight": 1000.0,
+                    "hardModeWeight": 1000.0,
+                    "multiplayerWeight": 1000.0
+                }
+            ]
+        }
+    ]
+}
